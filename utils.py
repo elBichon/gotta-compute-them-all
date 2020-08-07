@@ -56,6 +56,7 @@ def create_output(df, df1, max_index, TYPES_LIST):
 				df2 = df2[['classfication', 'attack','height_m', 'name', 'pokedex_number', 'type1', 'weight_kg','generation', 'is_legendary', 'image', 'type2']].head(5)
 				df2['target'] = 0
 				df1 = df1.append(df2)
+			df1 = df1.drop_duplicates()
 			return df1
 		else:
 			return False
