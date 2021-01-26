@@ -1,0 +1,802 @@
+,bug,dark,dragon,electric,fairy,fight,fire,flying,ghost,grass,ground,ice,normal,poison,psychic,rock,steel,water,classfication,height_m,name,attack,pokedex_number,type1,type2,weight_kg,generation,is_legendary,image
+0,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Seed Pokémon,0.7,Bulbasaur,49,1,grass,poison,6.9,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+1,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Seed Pokémon,1.0,Ivysaur,62,2,grass,poison,13.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+2,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Seed Pokémon,2.0,Venusaur,100,3,grass,poison,100.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+3,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Lizard Pokémon,0.6,Charmander,52,4,fire,fire,8.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+4,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Flame Pokémon,1.1,Charmeleon,64,5,fire,fire,19.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+5,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Flame Pokémon,1.7,Charizard,104,6,fire,flying,90.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+6,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Tiny Turtle Pokémon,0.5,Squirtle,48,7,water,water,9.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+7,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Turtle Pokémon,1.0,Wartortle,63,8,water,water,22.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+8,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Shellfish Pokémon,1.6,Blastoise,103,9,water,water,85.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+9,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Worm Pokémon,0.3,Caterpie,30,10,bug,bug,2.9,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+10,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Cocoon Pokémon,0.7,Metapod,20,11,bug,bug,9.9,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+11,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Butterfly Pokémon,1.1,Butterfree,45,12,bug,flying,32.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+12,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Hairy Pokémon,0.3,Weedle,35,13,bug,poison,3.2,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+13,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Cocoon Pokémon,0.6,Kakuna,25,14,bug,poison,10.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+14,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Poison Bee Pokémon,1.0,Beedrill,150,15,bug,poison,29.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+15,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Tiny Bird Pokémon,0.3,Pidgey,45,16,normal,flying,1.8,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+16,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Bird Pokémon,1.1,Pidgeotto,60,17,normal,flying,30.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+17,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Bird Pokémon,1.5,Pidgeot,80,18,normal,flying,39.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+18,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Mouse Pokémon,,Rattata,56,19,normal,dark,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+19,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Mouse Pokémon,,Raticate,71,20,normal,dark,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+20,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Tiny Bird Pokémon,0.3,Spearow,60,21,normal,flying,2.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+21,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Beak Pokémon,1.2,Fearow,90,22,normal,flying,38.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+22,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Snake Pokémon,2.0,Ekans,60,23,poison,poison,6.9,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+23,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Cobra Pokémon,3.5,Arbok,95,24,poison,poison,65.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+24,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Mouse Pokémon,0.4,Pikachu,55,25,electric,electric,6.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+25,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Mouse Pokémon,,Raichu,85,26,electric,electric,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+26,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Mouse Pokémon,,Sandshrew,75,27,ground,ice,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+27,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Mouse Pokémon,,Sandslash,100,28,ground,ice,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+28,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Pin Pokémon,0.4,Nidoran♀,47,29,poison,poison,7.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png
+29,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Pin Pokémon,0.8,Nidorina,62,30,poison,poison,20.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png
+30,0.5,1.0,1.0,0.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.25,2.0,0.5,1.0,2.0,Drill Pokémon,1.3,Nidoqueen,92,31,poison,ground,60.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png
+31,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Pin Pokémon,0.5,Nidoran♂,57,32,poison,poison,9.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png
+32,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Pin Pokémon,0.9,Nidorino,72,33,poison,poison,19.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png
+33,0.5,1.0,1.0,0.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.25,2.0,0.5,1.0,2.0,Drill Pokémon,1.4,Nidoking,102,34,poison,ground,62.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png
+34,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fairy Pokémon,0.6,Clefairy,45,35,fairy,fairy,7.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png
+35,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fairy Pokémon,1.3,Clefable,70,36,fairy,fairy,40.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png
+36,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fox Pokémon,,Vulpix,41,37,fire,ice,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png
+37,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fox Pokémon,,Ninetales,67,38,fire,ice,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png
+38,0.5,0.5,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Balloon Pokémon,0.5,Jigglypuff,45,39,normal,fairy,5.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png
+39,0.5,0.5,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Balloon Pokémon,1.0,Wigglytuff,70,40,normal,fairy,12.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png
+40,0.25,1.0,1.0,2.0,0.5,0.25,1.0,1.0,1.0,0.25,0.0,2.0,1.0,0.5,2.0,2.0,1.0,1.0,Bat Pokémon,0.8,Zubat,45,41,poison,flying,7.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png
+41,0.25,1.0,1.0,2.0,0.5,0.25,1.0,1.0,1.0,0.25,0.0,2.0,1.0,0.5,2.0,2.0,1.0,1.0,Bat Pokémon,1.6,Golbat,80,42,poison,flying,55.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png
+42,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Weed Pokémon,0.5,Oddish,50,43,grass,poison,5.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png
+43,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Weed Pokémon,0.8,Gloom,65,44,grass,poison,8.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png
+44,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Flower Pokémon,1.2,Vileplume,80,45,grass,poison,18.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png
+45,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Mushroom Pokémon,0.3,Paras,70,46,bug,grass,5.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png
+46,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Mushroom Pokémon,1.0,Parasect,95,47,bug,grass,29.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png
+47,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Insect Pokémon,1.0,Venonat,55,48,bug,poison,30.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png
+48,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Poison Moth Pokémon,1.5,Venomoth,65,49,bug,poison,12.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png
+49,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Mole Pokémon,,Diglett,55,50,ground,ground,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png
+50,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Mole Pokémon,,Dugtrio,100,51,ground,ground,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png
+51,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Scratch Cat Pokémon,,Meowth,35,52,normal,dark,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png
+52,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Classy Cat Pokémon,,Persian,60,53,normal,dark,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png
+53,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Duck Pokémon,0.8,Psyduck,52,54,water,water,19.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png
+54,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Duck Pokémon,1.7,Golduck,82,55,water,water,76.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png
+55,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Pig Monkey Pokémon,0.5,Mankey,80,56,fighting,fighting,28.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png
+56,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Pig Monkey Pokémon,1.0,Primeape,105,57,fighting,fighting,32.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png
+57,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Puppy Pokémon,0.7,Growlithe,70,58,fire,fire,19.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png
+58,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Legendary Pokémon,1.9,Arcanine,110,59,fire,fire,155.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png
+59,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Tadpole Pokémon,0.6,Poliwag,50,60,water,water,12.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png
+60,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Tadpole Pokémon,1.0,Poliwhirl,65,61,water,water,20.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png
+61,0.5,0.5,1.0,2.0,2.0,1.0,0.5,2.0,1.0,2.0,1.0,0.5,1.0,1.0,2.0,0.5,0.5,0.5,Tadpole Pokémon,1.3,Poliwrath,95,62,water,fighting,54.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png
+62,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Psi Pokémon,0.9,Abra,20,63,psychic,psychic,19.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png
+63,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Psi Pokémon,1.3,Kadabra,35,64,psychic,psychic,56.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png
+64,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Psi Pokémon,1.5,Alakazam,50,65,psychic,psychic,48.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png
+65,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Superpower Pokémon,0.8,Machop,80,66,fighting,fighting,19.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png
+66,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Superpower Pokémon,1.5,Machoke,100,67,fighting,fighting,70.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png
+67,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Superpower Pokémon,1.6,Machamp,130,68,fighting,fighting,130.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png
+68,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Flower Pokémon,0.7,Bellsprout,75,69,grass,poison,4.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png
+69,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Flycatcher Pokémon,1.0,Weepinbell,90,70,grass,poison,6.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png
+70,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Flycatcher Pokémon,1.7,Victreebel,105,71,grass,poison,15.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png
+71,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Jellyfish Pokémon,0.9,Tentacool,40,72,water,poison,45.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png
+72,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Jellyfish Pokémon,1.6,Tentacruel,70,73,water,poison,55.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png
+73,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Rock Pokémon,,Geodude,80,74,rock,ground,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png
+74,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Rock Pokémon,,Graveler,95,75,rock,ground,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png
+75,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Megaton Pokémon,,Golem,120,76,rock,ground,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png
+76,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Horse Pokémon,1.0,Ponyta,85,77,fire,fire,30.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png
+77,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Horse Pokémon,1.7,Rapidash,100,78,fire,fire,95.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png
+78,2.0,2.0,1.0,2.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,0.5,0.5,Dopey Pokémon,1.2,Slowpoke,65,79,water,psychic,36.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png
+79,2.0,2.0,1.0,2.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,0.5,0.5,Hermit Crab Pokémon,1.6,Slowbro,75,80,water,psychic,78.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png
+80,0.5,1.0,0.5,0.5,0.5,2.0,2.0,0.25,1.0,0.5,4.0,0.5,0.5,0.0,0.5,0.5,0.25,1.0,Magnet Pokémon,0.3,Magnemite,35,81,electric,steel,6.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png
+81,0.5,1.0,0.5,0.5,0.5,2.0,2.0,0.25,1.0,0.5,4.0,0.5,0.5,0.0,0.5,0.5,0.25,1.0,Magnet Pokémon,1.0,Magneton,60,82,electric,steel,60.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png
+82,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Wild Duck Pokémon,0.8,Farfetch'd,90,83,normal,flying,15.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png
+83,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Twin Bird Pokémon,1.4,Doduo,85,84,normal,flying,39.2,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png
+84,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Triple Bird Pokémon,1.8,Dodrio,110,85,normal,flying,85.2,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png
+85,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Lion Pokémon,1.1,Seel,45,86,water,water,90.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png
+86,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Sea Lion Pokémon,1.7,Dewgong,70,87,water,ice,120.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png
+87,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Sludge Pokémon,,Grimer,80,88,poison,poison,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png
+88,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Sludge Pokémon,,Muk,105,89,poison,poison,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png
+89,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Bivalve Pokémon,0.3,Shellder,65,90,water,water,4.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png
+90,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Bivalve Pokémon,1.5,Cloyster,95,91,water,ice,132.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png
+91,0.25,2.0,1.0,1.0,0.5,0.0,1.0,1.0,2.0,0.5,2.0,1.0,0.0,0.25,2.0,1.0,1.0,1.0,Gas Pokémon,1.3,Gastly,35,92,ghost,poison,0.1,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png
+92,0.25,2.0,1.0,1.0,0.5,0.0,1.0,1.0,2.0,0.5,2.0,1.0,0.0,0.25,2.0,1.0,1.0,1.0,Gas Pokémon,1.6,Haunter,50,93,ghost,poison,0.1,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png
+93,0.25,2.0,1.0,1.0,0.5,0.0,1.0,1.0,2.0,0.5,2.0,1.0,0.0,0.25,2.0,1.0,1.0,1.0,Shadow Pokémon,1.5,Gengar,65,94,ghost,poison,40.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png
+94,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Rock Snake Pokémon,8.8,Onix,45,95,rock,ground,210.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png
+95,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Hypnosis Pokémon,1.0,Drowzee,48,96,psychic,psychic,32.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png
+96,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Hypnosis Pokémon,1.6,Hypno,73,97,psychic,psychic,75.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png
+97,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,River Crab Pokémon,0.4,Krabby,105,98,water,water,6.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png
+98,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Pincer Pokémon,1.3,Kingler,130,99,water,water,60.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png
+99,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Ball Pokémon,0.5,Voltorb,30,100,electric,electric,10.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png
+100,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Ball Pokémon,1.2,Electrode,50,101,electric,electric,66.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png
+101,4.0,2.0,1.0,0.5,1.0,0.5,2.0,2.0,2.0,0.5,0.5,2.0,1.0,2.0,0.5,1.0,1.0,0.5,Egg Pokémon,0.4,Exeggcute,40,102,grass,psychic,2.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png
+102,4.0,2.0,1.0,0.5,1.0,0.5,2.0,2.0,2.0,0.5,0.5,2.0,1.0,2.0,0.5,1.0,1.0,0.5,Coconut Pokémon,,Exeggutor,105,103,grass,psychic,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png
+103,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Lonely Pokémon,0.4,Cubone,50,104,ground,ground,6.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png
+104,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Bone Keeper Pokémon,,Marowak,80,105,ground,fire,,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png
+105,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Kicking Pokémon,1.5,Hitmonlee,120,106,fighting,fighting,49.8,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png
+106,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Punching Pokémon,1.4,Hitmonchan,105,107,fighting,fighting,50.2,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png
+107,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Licking Pokémon,1.2,Lickitung,55,108,normal,normal,65.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png
+108,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Gas Pokémon,0.6,Koffing,65,109,poison,poison,1.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png
+109,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Gas Pokémon,1.2,Weezing,90,110,poison,poison,9.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png
+110,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Spikes Pokémon,1.0,Rhyhorn,85,111,ground,rock,115.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png
+111,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Drill Pokémon,1.9,Rhydon,130,112,ground,rock,120.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png
+112,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Egg Pokémon,1.1,Chansey,5,113,normal,normal,34.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png
+113,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Vine Pokémon,1.0,Tangela,55,114,grass,grass,35.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png
+114,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Parent Pokémon,2.2,Kangaskhan,125,115,normal,normal,80.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png
+115,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Dragon Pokémon,0.4,Horsea,40,116,water,water,8.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png
+116,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Dragon Pokémon,1.2,Seadra,65,117,water,water,25.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png
+117,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Goldfish Pokémon,0.6,Goldeen,67,118,water,water,15.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png
+118,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Goldfish Pokémon,1.3,Seaking,92,119,water,water,39.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png
+119,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Starshape Pokémon,0.8,Staryu,45,120,water,water,34.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png
+120,2.0,2.0,1.0,2.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,0.5,0.5,Mysterious Pokémon,1.1,Starmie,75,121,water,psychic,80.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png
+121,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Barrier Pokémon,1.3,Mr. Mime,45,122,psychic,fairy,54.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png
+122,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Mantis Pokémon,1.5,Scyther,110,123,bug,flying,56.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png
+123,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,2.0,2.0,1.0,Humanshape Pokémon,1.4,Jynx,50,124,ice,psychic,40.6,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png
+124,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Electric Pokémon,1.1,Electabuzz,83,125,electric,electric,30.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png
+125,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Spitfire Pokémon,1.3,Magmar,95,126,fire,fire,44.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png
+126,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Stagbeetle Pokémon,1.5,Pinsir,155,127,bug,bug,55.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png
+127,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Wild Bull Pokémon,1.4,Tauros,100,128,normal,normal,88.4,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png
+128,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Fish Pokémon,0.9,Magikarp,10,129,water,water,10.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png
+129,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Atrocious Pokémon,6.5,Gyarados,155,130,water,flying,235.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png
+130,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Transport Pokémon,2.5,Lapras,85,131,water,ice,220.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png
+131,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Transform Pokémon,0.3,Ditto,48,132,normal,normal,4.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png
+132,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Evolution Pokémon,0.3,Eevee,55,133,normal,normal,6.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png
+133,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Bubble Jet Pokémon,1.0,Vaporeon,65,134,water,water,29.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png
+134,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Lightning Pokémon,0.8,Jolteon,65,135,electric,electric,24.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png
+135,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Flame Pokémon,0.9,Flareon,130,136,fire,fire,25.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png
+136,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Virtual Pokémon,0.8,Porygon,60,137,normal,normal,36.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png
+137,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Spiral Pokémon,0.4,Omanyte,40,138,rock,water,7.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png
+138,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Spiral Pokémon,1.0,Omastar,60,139,rock,water,35.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png
+139,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Shellfish Pokémon,0.5,Kabuto,80,140,rock,water,11.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png
+140,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Shellfish Pokémon,1.3,Kabutops,115,141,rock,water,40.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png
+141,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,0.0,2.0,0.5,0.5,1.0,2.0,2.0,2.0,Fossil Pokémon,1.8,Aerodactyl,135,142,rock,flying,59.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png
+142,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Sleeping Pokémon,2.1,Snorlax,110,143,normal,normal,460.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png
+143,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,Freeze Pokémon,1.7,Articuno,85,144,ice,flying,55.4,1,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png
+144,0.5,1.0,1.0,1.0,1.0,0.5,1.0,0.5,1.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,0.5,1.0,Electric Pokémon,1.6,Zapdos,90,145,electric,flying,52.6,1,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png
+145,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Flame Pokémon,2.0,Moltres,100,146,fire,flying,60.0,1,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png
+146,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Dragon Pokémon,1.8,Dratini,64,147,dragon,dragon,3.3,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png
+147,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Dragon Pokémon,4.0,Dragonair,84,148,dragon,dragon,16.5,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png
+148,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Dragon Pokémon,2.2,Dragonite,134,149,dragon,flying,210.0,1,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png
+149,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Genetic Pokémon,2.0,Mewtwo,150,150,psychic,psychic,122.0,1,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png
+150,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,New Species Pokémon,0.4,Mew,100,151,psychic,psychic,4.0,1,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png
+151,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Leaf Pokémon,0.9,Chikorita,49,152,grass,grass,6.4,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png
+152,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Leaf Pokémon,1.2,Bayleef,62,153,grass,grass,15.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png
+153,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Herb Pokémon,1.8,Meganium,82,154,grass,grass,100.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png
+154,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Mouse Pokémon,0.5,Cyndaquil,52,155,fire,fire,7.9,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png
+155,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Volcano Pokémon,0.9,Quilava,64,156,fire,fire,19.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png
+156,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Volcano Pokémon,1.7,Typhlosion,84,157,fire,fire,79.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png
+157,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Big Jaw Pokémon,0.6,Totodile,65,158,water,water,9.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png
+158,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Big Jaw Pokémon,1.1,Croconaw,80,159,water,water,25.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png
+159,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Big Jaw Pokémon,2.3,Feraligatr,105,160,water,water,88.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png
+160,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Scout Pokémon,0.8,Sentret,46,161,normal,normal,6.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png
+161,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Long Body Pokémon,1.8,Furret,76,162,normal,normal,32.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/162.png
+162,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Owl Pokémon,0.7,Hoothoot,30,163,normal,flying,21.2,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png
+163,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Owl Pokémon,1.6,Noctowl,50,164,normal,flying,40.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/164.png
+164,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Five Star Pokémon,1.0,Ledyba,20,165,bug,flying,10.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png
+165,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Five Star Pokémon,1.4,Ledian,35,166,bug,flying,35.6,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/166.png
+166,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,String Spit Pokémon,0.5,Spinarak,60,167,bug,poison,8.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png
+167,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Long Leg Pokémon,1.1,Ariados,90,168,bug,poison,33.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png
+168,0.25,1.0,1.0,2.0,0.5,0.25,1.0,1.0,1.0,0.25,0.0,2.0,1.0,0.5,2.0,2.0,1.0,1.0,Bat Pokémon,1.8,Crobat,90,169,poison,flying,75.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png
+169,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,0.5,1.0,1.0,1.0,1.0,0.25,0.5,Angler Pokémon,0.5,Chinchou,38,170,water,electric,12.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/170.png
+170,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,0.5,1.0,1.0,1.0,1.0,0.25,0.5,Light Pokémon,1.2,Lanturn,58,171,water,electric,22.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png
+171,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Tiny Mouse Pokémon,0.3,Pichu,40,172,electric,electric,2.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png
+172,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Star Shape Pokémon,0.3,Cleffa,25,173,fairy,fairy,3.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/173.png
+173,0.5,0.5,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Balloon Pokémon,0.3,Igglybuff,30,174,normal,fairy,1.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/174.png
+174,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Spike Ball Pokémon,0.3,Togepi,20,175,fairy,fairy,1.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png
+175,0.25,0.5,0.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,0.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,Happiness Pokémon,0.6,Togetic,40,176,fairy,flying,3.2,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/176.png
+176,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Little Bird Pokémon,0.2,Natu,50,177,psychic,flying,2.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png
+177,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Mystic Pokémon,1.5,Xatu,75,178,psychic,flying,15.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png
+178,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Wool Pokémon,0.6,Mareep,40,179,electric,electric,7.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/179.png
+179,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Wool Pokémon,0.8,Flaaffy,55,180,electric,electric,13.3,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/180.png
+180,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Light Pokémon,1.4,Ampharos,95,181,electric,electric,61.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png
+181,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Flower Pokémon,0.4,Bellossom,80,182,grass,grass,5.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png
+182,0.5,0.5,0.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,0.5,Aquamouse Pokémon,0.4,Marill,20,183,water,fairy,8.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/183.png
+183,0.5,0.5,0.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,0.5,Aquarabbit Pokémon,0.8,Azumarill,50,184,water,fairy,28.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png
+184,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Imitation Pokémon,1.2,Sudowoodo,100,185,rock,rock,38.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png
+185,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Frog Pokémon,1.1,Politoed,75,186,water,water,33.9,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/186.png
+186,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Cottonweed Pokémon,0.4,Hoppip,35,187,grass,flying,0.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/187.png
+187,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Cottonweed Pokémon,0.6,Skiploom,45,188,grass,flying,1.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/188.png
+188,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Cottonweed Pokémon,0.8,Jumpluff,55,189,grass,flying,3.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/189.png
+189,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Long Tail Pokémon,0.8,Aipom,70,190,normal,normal,11.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/190.png
+190,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Seed Pokémon,0.3,Sunkern,30,191,grass,grass,1.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/191.png
+191,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Sun Pokémon,0.8,Sunflora,75,192,grass,grass,8.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/192.png
+192,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Clear Wing Pokémon,1.2,Yanma,65,193,bug,flying,38.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/193.png
+193,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Water Fish Pokémon,0.4,Wooper,45,194,water,ground,8.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png
+194,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Water Fish Pokémon,1.4,Quagsire,85,195,water,ground,75.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/195.png
+195,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Sun Pokémon,0.9,Espeon,65,196,psychic,psychic,26.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png
+196,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Moonlight Pokémon,1.0,Umbreon,65,197,dark,dark,27.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png
+197,1.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,0.5,0.5,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,Darkness Pokémon,0.5,Murkrow,85,198,dark,flying,2.1,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/198.png
+198,2.0,2.0,1.0,2.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,0.5,0.5,Royal Pokémon,2.0,Slowking,75,199,water,psychic,79.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png
+199,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Screech Pokémon,0.7,Misdreavus,60,200,ghost,ghost,1.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png
+200,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Symbol Pokémon,0.5,Unown,72,201,psychic,psychic,5.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/201.png
+201,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Patient Pokémon,1.3,Wobbuffet,33,202,psychic,psychic,28.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/202.png
+202,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Long Neck Pokémon,1.5,Girafarig,80,203,normal,psychic,41.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/203.png
+203,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Bagworm Pokémon,0.6,Pineco,65,204,bug,bug,7.2,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/204.png
+204,0.5,1.0,0.5,1.0,0.5,1.0,4.0,1.0,1.0,0.25,1.0,0.5,0.5,0.0,0.5,1.0,0.5,1.0,Bagworm Pokémon,1.2,Forretress,90,205,bug,steel,125.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png
+205,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Land Snake Pokémon,1.5,Dunsparce,70,206,normal,normal,14.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/206.png
+206,0.5,1.0,1.0,0.0,1.0,0.5,1.0,1.0,1.0,1.0,0.0,4.0,1.0,0.5,1.0,1.0,1.0,2.0,Flyscorpion Pokémon,1.1,Gligar,75,207,ground,flying,64.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/207.png
+207,0.5,1.0,0.5,0.0,0.5,2.0,2.0,0.5,1.0,1.0,2.0,1.0,0.5,0.0,0.5,0.25,0.5,2.0,Iron Snake Pokémon,9.2,Steelix,125,208,steel,ground,400.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png
+208,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fairy Pokémon,0.6,Snubbull,80,209,fairy,fairy,7.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/209.png
+209,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fairy Pokémon,1.4,Granbull,120,210,fairy,fairy,48.7,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/210.png
+210,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Balloon Pokémon,0.5,Qwilfish,95,211,water,poison,3.9,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/211.png
+211,0.5,1.0,0.5,1.0,0.5,1.0,4.0,1.0,1.0,0.25,1.0,0.5,0.5,0.0,0.5,1.0,0.5,1.0,Pincer Pokémon,1.8,Scizor,150,212,bug,steel,118.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png
+212,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,2.0,Mold Pokémon,0.6,Shuckle,10,213,bug,rock,20.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/213.png
+213,0.5,0.5,1.0,1.0,2.0,0.5,2.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,1.0,1.0,1.0,Singlehorn Pokémon,1.5,Heracross,185,214,bug,fighting,54.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png
+214,2.0,0.5,1.0,1.0,2.0,4.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,1.0,0.0,2.0,2.0,1.0,Sharp Claw Pokémon,0.9,Sneasel,95,215,dark,ice,28.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/215.png
+215,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Little Bear Pokémon,0.6,Teddiursa,80,216,normal,normal,8.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/216.png
+216,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Hibernator Pokémon,1.8,Ursaring,130,217,normal,normal,125.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/217.png
+217,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Lava Pokémon,0.7,Slugma,40,218,fire,fire,35.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/218.png
+218,0.5,1.0,1.0,1.0,0.5,2.0,0.25,0.5,1.0,1.0,4.0,0.5,0.5,0.5,1.0,2.0,1.0,4.0,Lava Pokémon,0.8,Magcargo,50,219,fire,rock,55.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/219.png
+219,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,Pig Pokémon,0.4,Swinub,50,220,ice,ground,6.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/220.png
+220,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,Swine Pokémon,1.1,Piloswine,100,221,ice,ground,55.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/221.png
+221,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Coral Pokémon,0.6,Corsola,55,222,water,rock,5.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png
+222,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Jet Pokémon,0.6,Remoraid,65,223,water,water,12.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/223.png
+223,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Jet Pokémon,0.9,Octillery,105,224,water,water,28.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/224.png
+224,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,0.0,1.0,1.0,1.0,1.0,4.0,2.0,1.0,Delivery Pokémon,0.9,Delibird,55,225,ice,flying,16.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/225.png
+225,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Kite Pokémon,2.1,Mantine,40,226,water,flying,220.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/226.png
+226,0.25,1.0,0.5,2.0,0.5,1.0,2.0,0.5,1.0,0.25,0.0,1.0,0.5,0.0,0.5,1.0,0.5,1.0,Armor Bird Pokémon,1.7,Skarmory,80,227,steel,flying,50.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png
+227,1.0,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,0.5,2.0,0.5,1.0,1.0,0.0,2.0,0.5,2.0,Dark Pokémon,0.6,Houndour,60,228,dark,fire,10.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/228.png
+228,1.0,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,0.5,2.0,0.5,1.0,1.0,0.0,2.0,0.5,2.0,Dark Pokémon,1.4,Houndoom,90,229,dark,fire,35.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/229.png
+229,1.0,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.25,Dragon Pokémon,1.8,Kingdra,95,230,water,dragon,152.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/230.png
+230,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Long Nose Pokémon,0.5,Phanpy,60,231,ground,ground,33.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/231.png
+231,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Armor Pokémon,1.1,Donphan,120,232,ground,ground,120.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/232.png
+232,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Virtual Pokémon,0.6,Porygon2,80,233,normal,normal,32.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/233.png
+233,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Big Horn Pokémon,1.4,Stantler,95,234,normal,normal,71.2,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/234.png
+234,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Painter Pokémon,1.2,Smeargle,20,235,normal,normal,58.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/235.png
+235,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Scuffle Pokémon,0.7,Tyrogue,35,236,fighting,fighting,21.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/236.png
+236,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Handstand Pokémon,1.4,Hitmontop,95,237,fighting,fighting,48.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/237.png
+237,2.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,2.0,2.0,1.0,Kiss Pokémon,0.4,Smoochum,30,238,ice,psychic,6.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/238.png
+238,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Electric Pokémon,0.6,Elekid,63,239,electric,electric,23.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/239.png
+239,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Live Coal Pokémon,0.7,Magby,75,240,fire,fire,21.4,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/240.png
+240,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Milk Cow Pokémon,1.2,Miltank,80,241,normal,normal,75.5,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/241.png
+241,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Happiness Pokémon,1.5,Blissey,10,242,normal,normal,46.8,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png
+242,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Thunder Pokémon,1.9,Raikou,85,243,electric,electric,178.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png
+243,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Volcano Pokémon,2.1,Entei,115,244,fire,fire,198.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png
+244,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Aurora Pokémon,2.0,Suicune,75,245,water,water,187.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png
+245,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Rock Skin Pokémon,0.6,Larvitar,64,246,rock,ground,72.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png
+246,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Hard Shell Pokémon,1.2,Pupitar,84,247,rock,ground,152.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/247.png
+247,2.0,0.5,1.0,1.0,2.0,4.0,0.5,0.5,0.5,2.0,2.0,1.0,0.5,0.5,0.0,1.0,2.0,2.0,Armor Pokémon,2.0,Tyranitar,164,248,rock,dark,202.0,2,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png
+248,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Diving Pokémon,5.2,Lugia,90,249,psychic,flying,216.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png
+249,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Rainbow Pokémon,3.8,Ho-Oh,130,250,fire,flying,199.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png
+250,4.0,2.0,1.0,0.5,1.0,0.5,2.0,2.0,2.0,0.5,0.5,2.0,1.0,2.0,0.5,1.0,1.0,0.5,Time Travel Pokémon,0.6,Celebi,100,251,psychic,grass,5.0,2,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png
+251,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Wood Gecko Pokémon,0.5,Treecko,45,252,grass,grass,5.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png
+252,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Wood Gecko Pokémon,0.9,Grovyle,65,253,grass,grass,21.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/253.png
+253,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Forest Pokémon,1.7,Sceptile,110,254,grass,grass,52.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png
+254,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Chick Pokémon,0.4,Torchic,60,255,fire,fire,2.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png
+255,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Young Fowl Pokémon,0.9,Combusken,85,256,fire,fighting,19.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/256.png
+256,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Blaze Pokémon,1.9,Blaziken,160,257,fire,fighting,52.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png
+257,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Mud Fish Pokémon,0.4,Mudkip,70,258,water,water,7.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png
+258,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Mud Fish Pokémon,0.7,Marshtomp,85,259,water,ground,28.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/259.png
+259,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Mud Fish Pokémon,1.5,Swampert,150,260,water,ground,81.9,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png
+260,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Bite Pokémon,0.5,Poochyena,55,261,dark,dark,13.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/261.png
+261,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Bite Pokémon,1.0,Mightyena,90,262,dark,dark,37.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/262.png
+262,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Tiny Racoon Pokémon,0.4,Zigzagoon,30,263,normal,normal,17.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png
+263,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Rush Pokémon,0.5,Linoone,70,264,normal,normal,32.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/264.png
+264,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Worm Pokémon,0.3,Wurmple,45,265,bug,bug,3.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/265.png
+265,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Cocoon Pokémon,0.6,Silcoon,35,266,bug,bug,10.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/266.png
+266,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Butterfly Pokémon,1.0,Beautifly,70,267,bug,flying,28.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png
+267,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Cocoon Pokémon,0.7,Cascoon,35,268,bug,bug,11.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/268.png
+268,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Poison Moth Pokémon,1.2,Dustox,50,269,bug,poison,31.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/269.png
+269,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.25,Water Weed Pokémon,0.5,Lotad,30,270,water,grass,2.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/270.png
+270,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.25,Jolly Pokémon,1.2,Lombre,50,271,water,grass,32.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/271.png
+271,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.25,Carefree Pokémon,1.5,Ludicolo,70,272,water,grass,55.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/272.png
+272,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Acorn Pokémon,0.5,Seedot,40,273,grass,grass,4.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/273.png
+273,4.0,0.5,1.0,0.5,2.0,2.0,2.0,2.0,0.5,0.5,0.5,2.0,1.0,2.0,0.0,1.0,1.0,0.5,Wily Pokémon,1.0,Nuzleaf,70,274,grass,dark,28.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/274.png
+274,4.0,0.5,1.0,0.5,2.0,2.0,2.0,2.0,0.5,0.5,0.5,2.0,1.0,2.0,0.0,1.0,1.0,0.5,Wickid Pokémon,1.3,Shiftry,100,275,grass,dark,59.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/275.png
+275,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,TinySwallow Pokémon,0.3,Taillow,55,276,normal,flying,2.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/276.png
+276,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Swallow Pokémon,0.7,Swellow,85,277,normal,flying,19.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/277.png
+277,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Seagull Pokémon,0.6,Wingull,30,278,water,flying,9.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/278.png
+278,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Water Bird Pokémon,1.2,Pelipper,50,279,water,flying,28.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/279.png
+279,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Feeling Pokémon,0.4,Ralts,25,280,psychic,fairy,6.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/280.png
+280,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Emotion Pokémon,0.8,Kirlia,35,281,psychic,fairy,20.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/281.png
+281,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Embrace Pokémon,1.6,Gardevoir,85,282,psychic,fairy,48.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png
+282,1.0,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,0.5,0.5,Pond Skater Pokémon,0.5,Surskit,30,283,bug,water,1.7,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/283.png
+283,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Eyeball Pokémon,0.8,Masquerain,60,284,bug,flying,3.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/284.png
+284,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Mushroom Pokémon,0.4,Shroomish,40,285,grass,grass,4.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/285.png
+285,1.0,0.5,1.0,0.5,2.0,1.0,2.0,4.0,1.0,0.5,0.5,2.0,1.0,2.0,2.0,0.5,1.0,0.5,Mushroom Pokémon,1.2,Breloom,130,286,grass,fighting,39.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png
+286,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Slacker Pokémon,0.8,Slakoth,60,287,normal,normal,24.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/287.png
+287,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Wild Monkey Pokémon,1.4,Vigoroth,80,288,normal,normal,46.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/288.png
+288,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Lazy Pokémon,2.0,Slaking,160,289,normal,normal,130.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/289.png
+289,1.0,1.0,1.0,0.0,1.0,0.5,2.0,2.0,1.0,1.0,0.5,2.0,1.0,0.5,1.0,1.0,1.0,2.0,Trainee Pokémon,0.5,Nincada,45,290,bug,ground,5.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/290.png
+290,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Ninja Pokémon,0.8,Ninjask,90,291,bug,flying,12.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/291.png
+291,0.5,2.0,1.0,1.0,1.0,0.0,2.0,2.0,2.0,0.5,0.5,1.0,0.0,0.5,1.0,2.0,1.0,1.0,Shed Pokémon,0.8,Shedinja,90,292,bug,ghost,1.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png
+292,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Whisper Pokémon,0.6,Whismur,51,293,normal,normal,16.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/293.png
+293,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Big Voice Pokémon,1.0,Loudred,71,294,normal,normal,40.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/294.png
+294,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Loud Noise Pokémon,1.5,Exploud,91,295,normal,normal,84.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/295.png
+295,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Guts Pokémon,1.0,Makuhita,60,296,fighting,fighting,86.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/296.png
+296,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Arm Thrust Pokémon,2.3,Hariyama,120,297,fighting,fighting,253.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/297.png
+297,0.5,0.5,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Polka Dot Pokémon,0.2,Azurill,20,298,normal,fairy,2.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png
+298,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Compass Pokémon,1.0,Nosepass,45,299,rock,rock,97.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/299.png
+299,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Kitten Pokémon,0.6,Skitty,45,300,normal,normal,11.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png
+300,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Prim Pokémon,1.1,Delcatty,65,301,normal,normal,32.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/301.png
+301,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,1.0,1.0,1.0,Darkness Pokémon,0.5,Sableye,85,302,dark,ghost,11.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png
+302,0.25,0.5,0.0,1.0,0.5,1.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,1.0,1.0,Deceiver Pokémon,0.6,Mawile,105,303,steel,fairy,11.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/303.png
+303,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Iron Armor Pokémon,0.4,Aron,70,304,steel,rock,60.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png
+304,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Iron Armor Pokémon,0.9,Lairon,90,305,steel,rock,120.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/305.png
+305,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Iron Armor Pokémon,2.1,Aggron,140,306,steel,rock,360.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png
+306,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,Meditate Pokémon,0.6,Meditite,40,307,fighting,psychic,11.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/307.png
+307,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,Meditate Pokémon,1.3,Medicham,100,308,fighting,psychic,31.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/308.png
+308,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Lightning Pokémon,0.6,Electrike,45,309,electric,electric,15.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/309.png
+309,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Discharge Pokémon,1.5,Manectric,75,310,electric,electric,40.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/310.png
+310,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Cheering Pokémon,0.4,Plusle,50,311,electric,electric,4.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/311.png
+311,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Cheering Pokémon,0.4,Minun,40,312,electric,electric,4.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png
+312,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Firefly Pokémon,0.7,Volbeat,73,313,bug,bug,17.7,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png
+313,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Firefly Pokémon,0.6,Illumise,47,314,bug,bug,17.7,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/314.png
+314,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Thorn Pokémon,0.3,Roselia,60,315,grass,poison,2.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png
+315,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Stomach Pokémon,0.4,Gulpin,43,316,poison,poison,10.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/316.png
+316,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Poison Bag Pokémon,1.7,Swalot,73,317,poison,poison,80.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/317.png
+317,2.0,0.5,1.0,2.0,2.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,1.0,1.0,0.0,1.0,0.5,0.5,Savage Pokémon,0.8,Carvanha,90,318,water,dark,20.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png
+318,2.0,0.5,1.0,2.0,2.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,1.0,1.0,0.0,1.0,0.5,0.5,Brutal Pokémon,1.8,Sharpedo,140,319,water,dark,88.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/319.png
+319,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Ball Whale Pokémon,2.0,Wailmer,70,320,water,water,130.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/320.png
+320,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Float Whale Pokémon,14.5,Wailord,90,321,water,water,398.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/321.png
+321,0.5,1.0,1.0,0.0,0.5,1.0,0.5,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,4.0,Numb Pokémon,0.7,Numel,60,322,fire,ground,24.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/322.png
+322,0.5,1.0,1.0,0.0,0.5,1.0,0.5,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,4.0,Eruption Pokémon,1.9,Camerupt,120,323,fire,ground,220.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png
+323,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Coal Pokémon,0.5,Torkoal,85,324,fire,fire,80.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/324.png
+324,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Bounce Pokémon,0.7,Spoink,25,325,psychic,psychic,30.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/325.png
+325,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Manipulate Pokémon,0.9,Grumpig,45,326,psychic,psychic,71.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/326.png
+326,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Spot Panda Pokémon,1.1,Spinda,60,327,normal,normal,5.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/327.png
+327,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Ant Pit Pokémon,0.7,Trapinch,100,328,ground,ground,15.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/328.png
+328,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Vibration Pokémon,1.1,Vibrava,70,329,ground,dragon,15.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/329.png
+329,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Mystic Pokémon,2.0,Flygon,100,330,ground,dragon,82.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/330.png
+330,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Cactus Pokémon,0.4,Cacnea,85,331,grass,grass,51.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/331.png
+331,4.0,0.5,1.0,0.5,2.0,2.0,2.0,2.0,0.5,0.5,0.5,2.0,1.0,2.0,0.0,1.0,1.0,0.5,Scarecrow Pokémon,1.3,Cacturne,115,332,grass,dark,77.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png
+332,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Cotton Bird Pokémon,0.4,Swablu,40,333,normal,flying,1.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/333.png
+333,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Humming Pokémon,1.1,Altaria,110,334,dragon,flying,20.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png
+334,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Cat Ferret Pokémon,1.3,Zangoose,115,335,normal,normal,40.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/335.png
+335,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Fang Snake Pokémon,2.7,Seviper,100,336,poison,poison,52.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/336.png
+336,2.0,2.0,1.0,1.0,1.0,1.0,0.5,0.5,2.0,2.0,2.0,1.0,0.5,0.5,0.5,1.0,2.0,2.0,Meteorite Pokémon,1.0,Lunatone,55,337,rock,psychic,168.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/337.png
+337,2.0,2.0,1.0,1.0,1.0,1.0,0.5,0.5,2.0,2.0,2.0,1.0,0.5,0.5,0.5,1.0,2.0,2.0,Meteorite Pokémon,1.2,Solrock,95,338,rock,psychic,154.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/338.png
+338,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Whiskers Pokémon,0.4,Barboach,48,339,water,ground,1.9,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png
+339,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Whiskers Pokémon,0.9,Whiscash,78,340,water,ground,23.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/340.png
+340,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Ruffian Pokémon,0.6,Corphish,80,341,water,water,11.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/341.png
+341,2.0,0.5,1.0,2.0,2.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,1.0,1.0,0.0,1.0,0.5,0.5,Rogue Pokémon,1.1,Crawdaunt,120,342,water,dark,32.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/342.png
+342,2.0,2.0,1.0,0.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,2.0,1.0,0.5,0.5,0.5,1.0,2.0,Clay Doll Pokémon,0.5,Baltoy,40,343,ground,psychic,21.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png
+343,2.0,2.0,1.0,0.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,2.0,1.0,0.5,0.5,0.5,1.0,2.0,Clay Doll Pokémon,1.5,Claydol,70,344,ground,psychic,108.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/344.png
+344,2.0,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,1.0,2.0,1.0,Sea Lily Pokémon,1.0,Lileep,41,345,rock,grass,23.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/345.png
+345,2.0,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,1.0,2.0,1.0,Barnacle Pokémon,1.5,Cradily,81,346,rock,grass,60.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/346.png
+346,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,2.0,Old Shrimp Pokémon,0.7,Anorith,95,347,rock,bug,12.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/347.png
+347,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,2.0,Plate Pokémon,1.5,Armaldo,125,348,rock,bug,68.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/348.png
+348,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Fish Pokémon,0.6,Feebas,15,349,water,water,7.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png
+349,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Tender Pokémon,6.2,Milotic,60,350,water,water,162.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png
+350,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Weather Pokémon,0.3,Castform,70,351,normal,normal,0.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png
+351,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Color Swap Pokémon,1.0,Kecleon,90,352,normal,normal,22.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/352.png
+352,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Puppet Pokémon,0.6,Shuppet,75,353,ghost,ghost,2.3,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png
+353,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Marionette Pokémon,1.1,Banette,165,354,ghost,ghost,12.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png
+354,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Requiem Pokémon,0.8,Duskull,40,355,ghost,ghost,15.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/355.png
+355,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Beckon Pokémon,1.6,Dusclops,70,356,ghost,ghost,30.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png
+356,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Fruit Pokémon,2.0,Tropius,68,357,grass,flying,100.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/357.png
+357,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Wind Chime Pokémon,0.6,Chimecho,50,358,psychic,psychic,1.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png
+358,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Disaster Pokémon,1.2,Absol,150,359,dark,dark,47.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png
+359,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Bright Pokémon,0.6,Wynaut,23,360,psychic,psychic,14.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png
+360,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Snow Hat Pokémon,0.7,Snorunt,50,361,ice,ice,16.8,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png
+361,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Face Pokémon,1.5,Glalie,120,362,ice,ice,256.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png
+362,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Clap Pokémon,0.8,Spheal,40,363,ice,water,39.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png
+363,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Ball Roll Pokémon,1.1,Sealeo,60,364,ice,water,87.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png
+364,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,2.0,1.0,0.5,Ice Break Pokémon,1.4,Walrein,80,365,ice,water,150.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/365.png
+365,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Bivalve Pokémon,0.4,Clamperl,64,366,water,water,52.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/366.png
+366,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Deep Sea Pokémon,1.7,Huntail,104,367,water,water,27.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/367.png
+367,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,South Sea Pokémon,1.8,Gorebyss,84,368,water,water,22.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/368.png
+368,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Longevity Pokémon,1.0,Relicanth,90,369,water,rock,23.4,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/369.png
+369,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Rendezvous Pokémon,0.6,Luvdisc,30,370,water,water,8.7,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/370.png
+370,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Rock Head Pokémon,0.6,Bagon,75,371,dragon,dragon,42.1,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png
+371,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Endurance Pokémon,1.1,Shelgon,95,372,dragon,dragon,110.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/372.png
+372,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Dragon Pokémon,1.5,Salamence,145,373,dragon,flying,102.6,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png
+373,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Iron Ball Pokémon,0.6,Beldum,55,374,steel,psychic,95.2,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png
+374,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Iron Claw Pokémon,1.2,Metang,75,375,steel,psychic,202.5,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/375.png
+375,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Iron Leg Pokémon,1.6,Metagross,145,376,steel,psychic,550.0,3,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png
+376,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Rock Peak Pokémon,1.7,Regirock,100,377,rock,rock,230.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/377.png
+377,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Iceberg Pokémon,1.8,Regice,50,378,ice,ice,175.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png
+378,0.5,1.0,0.5,1.0,0.5,2.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,0.5,1.0,Iron Pokémon,1.9,Registeel,75,379,steel,steel,205.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/379.png
+379,2.0,2.0,2.0,0.5,2.0,0.5,0.5,1.0,2.0,0.5,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,Eon Pokémon,1.4,Latias,100,380,dragon,psychic,40.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/380.png
+380,2.0,2.0,2.0,0.5,2.0,0.5,0.5,1.0,2.0,0.5,1.0,2.0,1.0,1.0,0.5,1.0,1.0,0.5,Eon Pokémon,2.0,Latios,130,381,dragon,psychic,60.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/381.png
+381,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Basin Pokémon,4.5,Kyogre,150,382,water,water,352.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png
+382,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Continent Pokémon,3.5,Groudon,180,383,ground,ground,950.0,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png
+383,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Sky High Pokémon,7.0,Rayquaza,180,384,dragon,flying,206.5,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png
+384,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Wish Pokémon,0.3,Jirachi,100,385,steel,psychic,1.1,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png
+385,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,DNA Pokémon,1.7,Deoxys,95,386,psychic,psychic,60.8,3,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png
+386,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Tiny Leaf Pokémon,0.4,Turtwig,68,387,grass,grass,10.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png
+387,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Grove Pokémon,1.1,Grotle,89,388,grass,grass,97.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/388.png
+388,2.0,1.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,1.0,0.5,4.0,1.0,1.0,1.0,0.5,1.0,1.0,Continent Pokémon,2.2,Torterra,109,389,grass,ground,310.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png
+389,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Chimp Pokémon,0.5,Chimchar,58,390,fire,fire,6.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png
+390,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Playful Pokémon,0.9,Monferno,78,391,fire,fighting,22.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/391.png
+391,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Flame Pokémon,1.2,Infernape,104,392,fire,fighting,55.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png
+392,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Penguin Pokémon,0.4,Piplup,51,393,water,water,5.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png
+393,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Penguin Pokémon,0.8,Prinplup,66,394,water,water,23.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/394.png
+394,0.5,1.0,0.5,2.0,0.5,2.0,1.0,0.5,1.0,1.0,2.0,0.25,0.5,0.0,0.5,0.5,0.25,0.5,Emperor Pokémon,1.7,Empoleon,86,395,water,steel,84.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/395.png
+395,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Starling Pokémon,0.3,Starly,55,396,normal,flying,2.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/396.png
+396,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Starling Pokémon,0.6,Staravia,75,397,normal,flying,15.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/397.png
+397,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Predator Pokémon,1.2,Staraptor,120,398,normal,flying,24.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/398.png
+398,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Plump Mouse Pokémon,0.5,Bidoof,45,399,normal,normal,20.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/399.png
+399,1.0,1.0,1.0,2.0,1.0,2.0,0.5,1.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Beaver Pokémon,1.0,Bibarel,85,400,normal,water,31.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png
+400,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Cricket Pokémon,0.3,Kricketot,25,401,bug,bug,2.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/401.png
+401,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Cricket Pokémon,1.0,Kricketune,85,402,bug,bug,25.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/402.png
+402,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Flash Pokémon,0.5,Shinx,65,403,electric,electric,9.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/403.png
+403,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Spark Pokémon,0.9,Luxio,85,404,electric,electric,30.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/404.png
+404,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Gleam Eyes Pokémon,1.4,Luxray,120,405,electric,electric,42.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png
+405,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Bud Pokémon,0.2,Budew,30,406,grass,poison,1.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png
+406,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Bouquet Pokémon,0.9,Roserade,70,407,grass,poison,14.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png
+407,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Head Butt Pokémon,0.9,Cranidos,125,408,rock,rock,31.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/408.png
+408,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Head Butt Pokémon,1.6,Rampardos,165,409,rock,rock,102.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/409.png
+409,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Shield Pokémon,0.5,Shieldon,42,410,rock,steel,57.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/410.png
+410,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Shield Pokémon,1.3,Bastiodon,52,411,rock,steel,149.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png
+411,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Bagworm Pokémon,0.2,Burmy,29,412,bug,bug,3.4,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png
+412,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Bagworm Pokémon,0.5,Wormadam,69,413,bug,grass,6.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/413.png
+413,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Moth Pokémon,0.9,Mothim,94,414,bug,flying,23.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/414.png
+414,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Tiny Bee Pokémon,0.3,Combee,30,415,bug,flying,5.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/415.png
+415,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Beehive Pokémon,1.2,Vespiquen,80,416,bug,flying,38.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/416.png
+416,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,EleSquirrel Pokémon,0.4,Pachirisu,45,417,electric,electric,3.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png
+417,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Weasel Pokémon,0.7,Buizel,65,418,water,water,29.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png
+418,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Weasel Pokémon,1.1,Floatzel,105,419,water,water,33.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/419.png
+419,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Cherry Pokémon,0.4,Cherubi,35,420,grass,grass,3.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/420.png
+420,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Blossom Pokémon,0.5,Cherrim,60,421,grass,grass,9.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png
+421,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Slug Pokémon,0.3,Shellos,48,422,water,water,6.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png
+422,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Sea Slug Pokémon,0.9,Gastrodon,83,423,water,ground,29.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/423.png
+423,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Long Tail Pokémon,1.2,Ambipom,100,424,normal,normal,20.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/424.png
+424,0.25,2.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.5,0.0,2.0,0.0,0.5,1.0,2.0,1.0,1.0,Balloon Pokémon,0.4,Drifloon,50,425,ghost,flying,1.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/425.png
+425,0.25,2.0,1.0,2.0,1.0,0.0,1.0,1.0,2.0,0.5,0.0,2.0,0.0,0.5,1.0,2.0,1.0,1.0,Blimp Pokémon,1.2,Drifblim,80,426,ghost,flying,15.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/426.png
+426,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Rabbit Pokémon,0.4,Buneary,66,427,normal,normal,5.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png
+427,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Rabbit Pokémon,1.2,Lopunny,136,428,normal,normal,33.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/428.png
+428,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Magical Pokémon,0.9,Mismagius,60,429,ghost,ghost,4.4,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png
+429,1.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,0.5,0.5,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,Big Boss Pokémon,0.9,Honchkrow,125,430,dark,flying,27.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png
+430,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Catty Pokémon,0.5,Glameow,55,431,normal,normal,3.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/431.png
+431,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Tiger Cat Pokémon,1.0,Purugly,82,432,normal,normal,43.8,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/432.png
+432,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Bell Pokémon,0.2,Chingling,30,433,psychic,psychic,0.6,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/433.png
+433,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,2.0,1.0,1.0,0.5,0.0,1.0,1.0,1.0,Skunk Pokémon,0.4,Stunky,63,434,poison,dark,19.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/434.png
+434,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,2.0,1.0,1.0,0.5,0.0,1.0,1.0,1.0,Skunk Pokémon,1.0,Skuntank,93,435,poison,dark,38.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/435.png
+435,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Bronze Pokémon,0.5,Bronzor,24,436,steel,psychic,60.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png
+436,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Bronze Bell Pokémon,1.3,Bronzong,89,437,steel,psychic,187.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png
+437,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Bonsai Pokémon,0.5,Bonsly,80,438,rock,rock,15.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png
+438,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Mime Pokémon,0.6,Mime Jr.,25,439,psychic,fairy,13.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png
+439,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Playhouse Pokémon,0.6,Happiny,5,440,normal,normal,24.4,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/440.png
+440,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Music Note Pokémon,0.5,Chatot,65,441,normal,flying,1.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/441.png
+441,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,1.0,1.0,1.0,Forbidden Pokémon,1.0,Spiritomb,92,442,ghost,dark,108.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png
+442,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Land Shark Pokémon,0.7,Gible,70,443,dragon,ground,20.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/443.png
+443,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Cave Pokémon,1.4,Gabite,90,444,dragon,ground,56.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/444.png
+444,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Mach Pokémon,1.9,Garchomp,170,445,dragon,ground,95.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png
+445,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Big Eater Pokémon,0.6,Munchlax,85,446,normal,normal,105.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png
+446,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Emanation Pokémon,0.7,Riolu,70,447,fighting,fighting,20.2,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/447.png
+447,0.25,0.5,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,2.0,0.5,0.5,0.0,1.0,0.25,0.5,1.0,Aura Pokémon,1.2,Lucario,145,448,fighting,steel,54.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png
+448,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Hippo Pokémon,0.8,Hippopotas,72,449,ground,ground,49.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/449.png
+449,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Heavyweight Pokémon,2.0,Hippowdon,112,450,ground,ground,300.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/450.png
+450,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Scorpion Pokémon,0.8,Skorupi,50,451,poison,bug,12.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png
+451,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,2.0,1.0,1.0,0.5,0.0,1.0,1.0,1.0,Ogre Scorp Pokémon,1.3,Drapion,90,452,poison,dark,61.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png
+452,0.25,0.5,1.0,1.0,1.0,0.5,1.0,2.0,1.0,0.5,2.0,1.0,1.0,0.5,4.0,0.5,1.0,1.0,Toxic Mouth Pokémon,0.7,Croagunk,61,453,poison,fighting,23.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/453.png
+453,0.25,0.5,1.0,1.0,1.0,0.5,1.0,2.0,1.0,0.5,2.0,1.0,1.0,0.5,4.0,0.5,1.0,1.0,Toxic Mouth Pokémon,1.3,Toxicroak,106,454,poison,fighting,44.4,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/454.png
+454,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Bug Catcher Pokémon,1.4,Carnivine,100,455,grass,grass,27.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/455.png
+455,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Wing Fish Pokémon,0.4,Finneon,49,456,water,water,7.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/456.png
+456,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Neon Pokémon,1.2,Lumineon,69,457,water,water,24.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/457.png
+457,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Kite Pokémon,1.0,Mantyke,20,458,water,flying,65.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/458.png
+458,2.0,1.0,1.0,0.5,1.0,2.0,4.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,2.0,2.0,0.5,Frosted Tree Pokémon,1.0,Snover,62,459,grass,ice,50.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/459.png
+459,2.0,1.0,1.0,0.5,1.0,2.0,4.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,2.0,2.0,0.5,Frosted Tree Pokémon,2.2,Abomasnow,132,460,grass,ice,135.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png
+460,2.0,0.5,1.0,1.0,2.0,4.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,1.0,0.0,2.0,2.0,1.0,Sharp Claw Pokémon,1.1,Weavile,120,461,dark,ice,34.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/461.png
+461,0.5,1.0,0.5,0.5,0.5,2.0,2.0,0.25,1.0,0.5,4.0,0.5,0.5,0.0,0.5,0.5,0.25,1.0,Magnet Area Pokémon,1.2,Magnezone,70,462,electric,steel,180.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png
+462,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Licking Pokémon,1.7,Lickilicky,85,463,normal,normal,140.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/463.png
+463,1.0,1.0,1.0,0.0,1.0,2.0,0.5,0.5,1.0,4.0,2.0,2.0,0.5,0.25,1.0,0.5,2.0,4.0,Drill Pokémon,2.4,Rhyperior,140,464,ground,rock,282.8,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/464.png
+464,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Vine Pokémon,2.0,Tangrowth,100,465,grass,grass,128.6,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/465.png
+465,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Thunderbolt Pokémon,1.8,Electivire,123,466,electric,electric,138.6,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png
+466,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Blast Pokémon,1.6,Magmortar,95,467,fire,fire,68.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/467.png
+467,0.25,0.5,0.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,0.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,Jubilee Pokémon,1.5,Togekiss,50,468,fairy,flying,38.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/468.png
+468,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Ogre Darner Pokémon,1.9,Yanmega,76,469,bug,flying,51.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/469.png
+469,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Verdant Pokémon,1.0,Leafeon,110,470,grass,grass,25.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png
+470,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Fresh Snow Pokémon,0.8,Glaceon,60,471,ice,ice,25.9,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png
+471,0.5,1.0,1.0,0.0,1.0,0.5,1.0,1.0,1.0,1.0,0.0,4.0,1.0,0.5,1.0,1.0,1.0,2.0,Fang Scorp Pokémon,2.0,Gliscor,95,472,ground,flying,42.5,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/472.png
+472,1.0,1.0,1.0,0.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,Twin Tusk Pokémon,2.5,Mamoswine,130,473,ice,ground,291.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png
+473,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Virtual Pokémon,0.9,Porygon-Z,80,474,normal,normal,34.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/474.png
+474,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,Blade Pokémon,1.6,Gallade,165,475,psychic,fighting,52.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/475.png
+475,0.5,1.0,0.5,1.0,0.5,4.0,1.0,0.25,1.0,1.0,4.0,0.5,0.25,0.0,0.5,0.5,1.0,2.0,Compass Pokémon,1.4,Probopass,55,476,rock,steel,340.0,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/476.png
+476,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Gripper Pokémon,2.2,Dusknoir,100,477,ghost,ghost,106.6,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png
+477,0.5,2.0,1.0,1.0,1.0,0.0,2.0,1.0,2.0,1.0,1.0,0.5,0.0,0.5,1.0,2.0,2.0,1.0,Snow Land Pokémon,1.3,Froslass,80,478,ice,ghost,26.6,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/478.png
+478,0.5,2.0,1.0,0.5,1.0,0.0,1.0,0.5,2.0,1.0,2.0,1.0,0.0,0.5,1.0,1.0,0.5,1.0,Plasma Pokémon,0.3,Rotom,65,479,electric,ghost,0.3,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479.png
+479,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Knowledge Pokémon,0.3,Uxie,75,480,psychic,psychic,0.3,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/480.png
+480,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Emotion Pokémon,0.3,Mesprit,105,481,psychic,psychic,0.3,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/481.png
+481,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Willpower Pokémon,0.3,Azelf,125,482,psychic,psychic,0.3,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/482.png
+482,0.5,1.0,1.0,0.5,1.0,2.0,1.0,0.5,1.0,0.25,2.0,1.0,0.5,0.0,0.5,0.5,0.5,0.5,Temporal Pokémon,5.4,Dialga,120,483,steel,dragon,683.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png
+483,1.0,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.25,Spatial Pokémon,4.2,Palkia,120,484,water,dragon,336.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png
+484,0.25,1.0,0.5,1.0,0.25,2.0,1.0,0.5,1.0,0.25,4.0,0.25,0.5,0.0,0.5,1.0,0.25,2.0,Lava Dome Pokémon,1.7,Heatran,90,485,fire,steel,430.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/485.png
+485,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Colossal Pokémon,3.7,Regigigas,160,486,normal,normal,420.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/486.png
+486,0.5,2.0,2.0,0.5,2.0,0.0,0.5,1.0,2.0,0.5,1.0,2.0,0.0,0.5,1.0,1.0,1.0,0.5,Renegade Pokémon,4.5,Giratina,120,487,ghost,dragon,750.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png
+487,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Lunar Pokémon,1.5,Cresselia,70,488,psychic,psychic,85.6,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/488.png
+488,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Drifter Pokémon,0.4,Phione,80,489,water,water,3.1,4,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png
+489,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Seafaring Pokémon,0.3,Manaphy,100,490,water,water,1.4,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png
+490,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Pitch-Black Pokémon,1.5,Darkrai,90,491,dark,dark,50.5,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png
+491,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Gratitude Pokémon,0.2,Shaymin,103,492,grass,grass,2.1,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png
+492,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Alpha Pokémon,3.2,Arceus,120,493,normal,normal,320.0,4,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png
+493,1.0,2.0,1.0,1.0,0.5,0.5,0.5,1.0,2.0,0.5,2.0,0.5,1.0,1.0,0.5,2.0,0.5,2.0,Victory Pokémon,0.4,Victini,100,494,psychic,fire,4.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png
+494,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Grass Snake Pokémon,0.6,Snivy,45,495,grass,grass,8.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/495.png
+495,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Grass Snake Pokémon,0.8,Servine,60,496,grass,grass,16.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/496.png
+496,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Regal Pokémon,3.3,Serperior,75,497,grass,grass,63.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/497.png
+497,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Pig Pokémon,0.5,Tepig,63,498,fire,fire,9.9,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/498.png
+498,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Fire Pig Pokémon,1.0,Pignite,93,499,fire,fighting,55.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/499.png
+499,0.25,0.5,1.0,1.0,1.0,1.0,0.5,2.0,1.0,0.5,2.0,0.5,1.0,1.0,2.0,1.0,0.5,2.0,Mega Fire Pig Pokémon,1.6,Emboar,123,500,fire,fighting,150.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/500.png
+500,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Otter Pokémon,0.5,Oshawott,55,501,water,water,5.9,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png
+501,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Discipline Pokémon,0.8,Dewott,75,502,water,water,24.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/502.png
+502,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Formidable Pokémon,1.5,Samurott,100,503,water,water,94.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/503.png
+503,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Scout Pokémon,0.5,Patrat,55,504,normal,normal,11.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/504.png
+504,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Lookout Pokémon,1.1,Watchog,85,505,normal,normal,27.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/505.png
+505,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Puppy Pokémon,0.4,Lillipup,60,506,normal,normal,4.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/506.png
+506,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Loyal Dog Pokémon,0.9,Herdier,80,507,normal,normal,14.7,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/507.png
+507,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Big-Hearted Pokémon,1.2,Stoutland,110,508,normal,normal,61.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/508.png
+508,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Devious Pokémon,0.4,Purrloin,50,509,dark,dark,10.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/509.png
+509,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Cruel Pokémon,1.1,Liepard,88,510,dark,dark,37.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/510.png
+510,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Grass Monkey Pokémon,0.6,Pansage,53,511,grass,grass,10.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/511.png
+511,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Thorn Monkey Pokémon,1.1,Simisage,98,512,grass,grass,30.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/512.png
+512,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,High Temp Pokémon,0.6,Pansear,53,513,fire,fire,11.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/513.png
+513,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Ember Pokémon,1.0,Simisear,98,514,fire,fire,28.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/514.png
+514,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Spray Pokémon,0.6,Panpour,53,515,water,water,13.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/515.png
+515,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Geyser Pokémon,1.0,Simipour,98,516,water,water,29.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/516.png
+516,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Dream Eater Pokémon,0.6,Munna,25,517,psychic,psychic,23.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/517.png
+517,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Drowsing Pokémon,1.1,Musharna,55,518,psychic,psychic,60.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/518.png
+518,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Tiny Pigeon Pokémon,0.3,Pidove,55,519,normal,flying,2.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png
+519,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Wild Pigeon Pokémon,0.6,Tranquill,77,520,normal,flying,15.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/520.png
+520,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Proud Pokémon,1.2,Unfezant,115,521,normal,flying,29.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/521.png
+521,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Electrified Pokémon,0.8,Blitzle,60,522,electric,electric,29.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/522.png
+522,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Thunderbolt Pokémon,1.6,Zebstrika,100,523,electric,electric,79.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png
+523,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Mantle Pokémon,0.4,Roggenrola,75,524,rock,rock,18.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/524.png
+524,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Ore Pokémon,0.9,Boldore,105,525,rock,rock,102.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png
+525,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Compressed Pokémon,1.7,Gigalith,135,526,rock,rock,260.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/526.png
+526,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Bat Pokémon,0.4,Woobat,45,527,psychic,flying,2.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/527.png
+527,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Courting Pokémon,0.9,Swoobat,57,528,psychic,flying,10.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/528.png
+528,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Mole Pokémon,0.3,Drilbur,85,529,ground,ground,8.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/529.png
+529,0.5,1.0,0.5,0.0,0.5,2.0,2.0,0.5,1.0,1.0,2.0,1.0,0.5,0.0,0.5,0.25,0.5,2.0,Subterrene Pokémon,0.7,Excadrill,135,530,ground,steel,40.4,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/530.png
+530,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Hearing Pokémon,1.1,Audino,60,531,normal,normal,31.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png
+531,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Muscular Pokémon,0.6,Timburr,80,532,fighting,fighting,12.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/532.png
+532,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Muscular Pokémon,1.2,Gurdurr,105,533,fighting,fighting,40.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/533.png
+533,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Muscular Pokémon,1.4,Conkeldurr,140,534,fighting,fighting,87.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/534.png
+534,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Tadpole Pokémon,0.5,Tympole,50,535,water,water,4.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/535.png
+535,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Vibration Pokémon,0.8,Palpitoad,65,536,water,ground,17.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/536.png
+536,1.0,1.0,1.0,0.0,1.0,1.0,0.5,1.0,1.0,4.0,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,Vibration Pokémon,1.5,Seismitoad,95,537,water,ground,62.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/537.png
+537,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Judo Pokémon,1.3,Throh,100,538,fighting,fighting,55.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/538.png
+538,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Karate Pokémon,1.4,Sawk,125,539,fighting,fighting,51.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/539.png
+539,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Sewing Pokémon,0.3,Sewaddle,53,540,bug,grass,2.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/540.png
+540,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Leaf-Wrapped Pokémon,0.5,Swadloon,63,541,bug,grass,7.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/541.png
+541,2.0,1.0,1.0,0.5,1.0,0.5,4.0,4.0,1.0,0.25,0.25,2.0,1.0,2.0,1.0,2.0,1.0,0.5,Nurturing Pokémon,1.2,Leavanny,103,542,bug,grass,20.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/542.png
+542,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Centipede Pokémon,0.4,Venipede,45,543,bug,poison,5.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png
+543,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Curlipede Pokémon,1.2,Whirlipede,55,544,bug,poison,58.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png
+544,0.5,1.0,1.0,1.0,0.5,0.25,2.0,2.0,1.0,0.25,1.0,1.0,1.0,0.5,2.0,2.0,1.0,1.0,Megapede Pokémon,2.5,Scolipede,100,545,bug,poison,200.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/545.png
+545,1.0,0.5,0.0,0.5,1.0,0.5,2.0,2.0,1.0,0.5,0.5,2.0,1.0,4.0,1.0,1.0,2.0,0.5,Cotton Puff Pokémon,0.3,Cottonee,27,546,grass,fairy,0.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/546.png
+546,1.0,0.5,0.0,0.5,1.0,0.5,2.0,2.0,1.0,0.5,0.5,2.0,1.0,4.0,1.0,1.0,2.0,0.5,Windveiled Pokémon,0.7,Whimsicott,67,547,grass,fairy,6.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/547.png
+547,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Bulb Pokémon,0.5,Petilil,35,548,grass,grass,6.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png
+548,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Flowering Pokémon,1.1,Lilligant,60,549,grass,grass,16.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/549.png
+549,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Hostile Pokémon,1.0,Basculin,92,550,water,water,18.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png
+550,2.0,0.5,1.0,0.0,2.0,2.0,1.0,1.0,0.5,2.0,1.0,2.0,1.0,0.5,0.0,0.5,1.0,2.0,Desert Croc Pokémon,0.7,Sandile,72,551,ground,dark,15.2,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/551.png
+551,2.0,0.5,1.0,0.0,2.0,2.0,1.0,1.0,0.5,2.0,1.0,2.0,1.0,0.5,0.0,0.5,1.0,2.0,Desert Croc Pokémon,1.0,Krokorok,82,552,ground,dark,33.4,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/552.png
+552,2.0,0.5,1.0,0.0,2.0,2.0,1.0,1.0,0.5,2.0,1.0,2.0,1.0,0.5,0.0,0.5,1.0,2.0,Intimidation Pokémon,1.5,Krookodile,117,553,ground,dark,96.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/553.png
+553,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Zen Charm Pokémon,0.6,Darumaka,90,554,fire,fire,37.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/554.png
+554,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Blazing Pokémon,1.3,Darmanitan,30,555,fire,fire,92.9,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/555.png
+555,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Cactus Pokémon,1.0,Maractus,86,556,grass,grass,28.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/556.png
+556,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,2.0,Rock Inn Pokémon,0.3,Dwebble,65,557,bug,rock,14.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/557.png
+557,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,2.0,Stone Home Pokémon,1.4,Crustle,105,558,bug,rock,200.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/558.png
+558,1.0,0.25,1.0,1.0,4.0,2.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,Shedding Pokémon,0.6,Scraggy,75,559,dark,fighting,11.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/559.png
+559,1.0,0.25,1.0,1.0,4.0,2.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,Hoodlum Pokémon,1.1,Scrafty,90,560,dark,fighting,30.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/560.png
+560,1.0,2.0,1.0,2.0,1.0,0.25,1.0,1.0,2.0,0.5,0.0,2.0,1.0,1.0,0.5,2.0,1.0,1.0,Avianoid Pokémon,1.4,Sigilyph,58,561,psychic,flying,14.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/561.png
+561,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Spirit Pokémon,0.5,Yamask,30,562,ghost,ghost,1.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png
+562,0.5,2.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,1.0,1.0,Coffin Pokémon,1.7,Cofagrigus,50,563,ghost,ghost,76.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/563.png
+563,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Prototurtle Pokémon,0.7,Tirtouga,78,564,water,rock,16.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/564.png
+564,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Prototurtle Pokémon,1.2,Carracosta,108,565,water,rock,81.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png
+565,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,0.0,2.0,0.5,0.5,1.0,2.0,2.0,2.0,First Bird Pokémon,0.5,Archen,112,566,rock,flying,9.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/566.png
+566,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,0.0,2.0,0.5,0.5,1.0,2.0,2.0,2.0,First Bird Pokémon,1.4,Archeops,140,567,rock,flying,32.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/567.png
+567,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Trash Bag Pokémon,0.6,Trubbish,50,568,poison,poison,31.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/568.png
+568,0.5,1.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.5,2.0,1.0,1.0,0.5,2.0,1.0,1.0,1.0,Trash Heap Pokémon,1.9,Garbodor,95,569,poison,poison,107.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/569.png
+569,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Tricky Fox Pokémon,0.7,Zorua,65,570,dark,dark,12.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png
+570,2.0,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Illusion Fox Pokémon,1.6,Zoroark,105,571,dark,dark,81.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png
+571,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Chinchilla Pokémon,0.4,Minccino,50,572,normal,normal,5.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/572.png
+572,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Scarf Pokémon,0.5,Cinccino,95,573,normal,normal,7.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/573.png
+573,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Fixation Pokémon,0.4,Gothita,30,574,psychic,psychic,5.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/574.png
+574,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Manipulate Pokémon,0.7,Gothorita,45,575,psychic,psychic,18.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/575.png
+575,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Astral Body Pokémon,1.5,Gothitelle,55,576,psychic,psychic,44.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png
+576,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Cell Pokémon,0.3,Solosis,30,577,psychic,psychic,1.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/577.png
+577,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Mitosis Pokémon,0.6,Duosion,40,578,psychic,psychic,8.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/578.png
+578,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Multiplying Pokémon,1.0,Reuniclus,65,579,psychic,psychic,20.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/579.png
+579,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,Water Bird Pokémon,0.5,Ducklett,44,580,water,flying,5.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/580.png
+580,0.5,1.0,1.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,White Bird Pokémon,1.3,Swanna,87,581,water,flying,24.2,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/581.png
+581,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Fresh Snow Pokémon,0.4,Vanillite,50,582,ice,ice,5.7,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/582.png
+582,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Icy Snow Pokémon,1.1,Vanillish,65,583,ice,ice,41.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/583.png
+583,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Snowstorm Pokémon,1.3,Vanilluxe,95,584,ice,ice,57.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/584.png
+584,2.0,1.0,1.0,0.5,1.0,2.0,2.0,2.0,0.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Season Pokémon,0.6,Deerling,60,585,normal,grass,19.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/585.png
+585,2.0,1.0,1.0,0.5,1.0,2.0,2.0,2.0,0.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Season Pokémon,1.9,Sawsbuck,100,586,normal,grass,92.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/586.png
+586,0.5,1.0,1.0,1.0,1.0,0.5,1.0,0.5,1.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,0.5,1.0,Sky Squirrel Pokémon,0.4,Emolga,75,587,electric,flying,5.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/587.png
+587,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Clamping Pokémon,0.5,Karrablast,75,588,bug,bug,5.9,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/588.png
+588,0.5,1.0,0.5,1.0,0.5,1.0,4.0,1.0,1.0,0.25,1.0,0.5,0.5,0.0,0.5,1.0,0.5,1.0,Cavalry Pokémon,1.0,Escavalier,135,589,bug,steel,33.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/589.png
+589,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Mushroom Pokémon,0.2,Foongus,55,590,grass,poison,1.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/590.png
+590,1.0,1.0,1.0,0.5,0.5,0.5,2.0,2.0,1.0,0.25,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0.5,Mushroom Pokémon,0.6,Amoonguss,85,591,grass,poison,10.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/591.png
+591,0.5,2.0,1.0,2.0,1.0,0.0,0.5,1.0,2.0,2.0,1.0,0.5,0.0,0.5,1.0,1.0,0.5,0.5,Floating Pokémon,1.2,Frillish,40,592,water,ghost,33.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/592.png
+592,0.5,2.0,1.0,2.0,1.0,0.0,0.5,1.0,2.0,2.0,1.0,0.5,0.0,0.5,1.0,1.0,0.5,0.5,Floating Pokémon,2.2,Jellicent,60,593,water,ghost,135.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/593.png
+593,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Caring Pokémon,1.2,Alomomola,75,594,water,water,31.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/594.png
+594,1.0,1.0,1.0,0.5,1.0,0.5,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,Attaching Pokémon,0.1,Joltik,47,595,bug,electric,0.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png
+595,1.0,1.0,1.0,0.5,1.0,0.5,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,EleSpider Pokémon,0.8,Galvantula,77,596,bug,electric,14.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/596.png
+596,1.0,1.0,0.5,0.5,0.5,2.0,4.0,1.0,1.0,0.25,1.0,1.0,0.5,0.0,0.5,0.5,0.5,0.5,Thorn Seed Pokémon,0.6,Ferroseed,50,597,grass,steel,18.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/597.png
+597,1.0,1.0,0.5,0.5,0.5,2.0,4.0,1.0,1.0,0.25,1.0,1.0,0.5,0.0,0.5,0.5,0.5,0.5,Thorn Pod Pokémon,1.0,Ferrothorn,94,598,grass,steel,110.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/598.png
+598,0.5,1.0,0.5,1.0,0.5,2.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,0.5,1.0,Gear Pokémon,0.3,Klink,55,599,steel,steel,21.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/599.png
+599,0.5,1.0,0.5,1.0,0.5,2.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,0.5,1.0,Gear Pokémon,0.6,Klang,80,600,steel,steel,51.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/600.png
+600,0.5,1.0,0.5,1.0,0.5,2.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,0.5,1.0,Gear Pokémon,0.6,Klinklang,100,601,steel,steel,81.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/601.png
+601,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,EleFish Pokémon,0.2,Tynamo,55,602,electric,electric,0.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/602.png
+602,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,EleFish Pokémon,1.2,Eelektrik,85,603,electric,electric,22.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/603.png
+603,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,EleFish Pokémon,2.1,Eelektross,115,604,electric,electric,80.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/604.png
+604,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Cerebral Pokémon,0.5,Elgyem,55,605,psychic,psychic,9.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png
+605,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Cerebral Pokémon,1.0,Beheeyem,75,606,psychic,psychic,34.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png
+606,0.25,2.0,1.0,1.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,Candle Pokémon,0.3,Litwick,30,607,ghost,fire,3.1,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/607.png
+607,0.25,2.0,1.0,1.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,Lamp Pokémon,0.6,Lampent,40,608,ghost,fire,13.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/608.png
+608,0.25,2.0,1.0,1.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,0.5,0.0,0.5,1.0,2.0,0.5,2.0,Luring Pokémon,1.0,Chandelure,55,609,ghost,fire,34.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png
+609,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Tusk Pokémon,0.6,Axew,87,610,dragon,dragon,18.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png
+610,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Axe Jaw Pokémon,1.0,Fraxure,117,611,dragon,dragon,36.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png
+611,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Axe Jaw Pokémon,1.8,Haxorus,147,612,dragon,dragon,105.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png
+612,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Chill Pokémon,0.5,Cubchoo,70,613,ice,ice,8.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/613.png
+613,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Freezing Pokémon,2.6,Beartic,130,614,ice,ice,260.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png
+614,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Crystallizing Pokémon,1.1,Cryogonal,50,615,ice,ice,148.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png
+615,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Snail Pokémon,0.4,Shelmet,40,616,bug,bug,7.7,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/616.png
+616,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Shell Out Pokémon,0.8,Accelgor,70,617,bug,bug,25.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png
+617,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.5,1.0,2.0,2.0,2.0,1.0,0.5,1.0,0.5,0.5,2.0,Trap Pokémon,0.7,Stunfisk,66,618,ground,electric,11.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/618.png
+618,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Martial Arts Pokémon,0.9,Mienfoo,85,619,fighting,fighting,20.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/619.png
+619,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Martial Arts Pokémon,1.4,Mienshao,125,620,fighting,fighting,35.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/620.png
+620,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Cave Pokémon,1.6,Druddigon,120,621,dragon,dragon,139.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/621.png
+621,0.5,2.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.25,1.0,0.5,1.0,2.0,Automaton Pokémon,1.0,Golett,74,622,ground,ghost,92.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/622.png
+622,0.5,2.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.25,1.0,0.5,1.0,2.0,Automaton Pokémon,2.8,Golurk,124,623,ground,ghost,330.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png
+623,1.0,0.5,0.5,1.0,1.0,4.0,2.0,0.5,0.5,0.5,2.0,0.5,0.5,0.0,0.0,0.5,0.5,1.0,Sharp Blade Pokémon,0.5,Pawniard,85,624,dark,steel,10.2,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/624.png
+624,1.0,0.5,0.5,1.0,1.0,4.0,2.0,0.5,0.5,0.5,2.0,0.5,0.5,0.0,0.0,0.5,0.5,1.0,Sword Blade Pokémon,1.6,Bisharp,125,625,dark,steel,70.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png
+625,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Bash Buffalo Pokémon,1.6,Bouffalant,110,626,normal,normal,94.6,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png
+626,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Eaglet Pokémon,0.5,Rufflet,83,627,normal,flying,10.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/627.png
+627,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Valiant Pokémon,1.5,Braviary,123,628,normal,flying,41.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png
+628,1.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,0.5,0.5,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,Diapered Pokémon,0.5,Vullaby,55,629,dark,flying,9.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/629.png
+629,1.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,0.5,0.5,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,Bone Vulture Pokémon,1.2,Mandibuzz,65,630,dark,flying,39.5,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/630.png
+630,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Anteater Pokémon,1.4,Heatmor,97,631,fire,fire,58.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/631.png
+631,0.5,1.0,0.5,1.0,0.5,1.0,4.0,1.0,1.0,0.25,1.0,0.5,0.5,0.0,0.5,1.0,0.5,1.0,Iron Ant Pokémon,0.3,Durant,109,632,bug,steel,33.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/632.png
+632,2.0,0.5,2.0,0.5,4.0,2.0,0.5,1.0,0.5,0.5,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.5,Irate Pokémon,0.8,Deino,65,633,dark,dragon,17.3,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png
+633,2.0,0.5,2.0,0.5,4.0,2.0,0.5,1.0,0.5,0.5,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.5,Hostile Pokémon,1.4,Zweilous,85,634,dark,dragon,50.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png
+634,2.0,0.5,2.0,0.5,4.0,2.0,0.5,1.0,0.5,0.5,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.5,Brutal Pokémon,1.8,Hydreigon,105,635,dark,dragon,160.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png
+635,0.5,1.0,1.0,1.0,0.5,0.5,1.0,2.0,1.0,0.25,1.0,0.5,1.0,1.0,1.0,4.0,0.5,2.0,Torch Pokémon,1.1,Larvesta,85,636,bug,fire,28.8,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/636.png
+636,0.5,1.0,1.0,1.0,0.5,0.5,1.0,2.0,1.0,0.25,1.0,0.5,1.0,1.0,1.0,4.0,0.5,2.0,Sun Pokémon,1.6,Volcarona,60,637,bug,fire,46.0,5,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png
+637,0.25,0.5,0.5,1.0,1.0,2.0,2.0,1.0,1.0,0.5,2.0,0.5,0.5,0.0,1.0,0.25,0.5,1.0,Iron Will Pokémon,2.1,Cobalion,90,638,steel,fighting,250.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/638.png
+638,0.5,0.5,1.0,1.0,2.0,2.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,0.5,2.0,2.0,Cavern Pokémon,1.9,Terrakion,129,639,rock,fighting,260.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/639.png
+639,1.0,0.5,1.0,0.5,2.0,1.0,2.0,4.0,1.0,0.5,0.5,2.0,1.0,2.0,2.0,0.5,1.0,0.5,Grassland Pokémon,2.0,Virizion,90,640,grass,fighting,200.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/640.png
+640,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Cyclone Pokémon,1.5,Tornadus,100,641,flying,flying,63.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png
+641,0.5,1.0,1.0,1.0,1.0,0.5,1.0,0.5,1.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,0.5,1.0,Bolt Strike Pokémon,1.5,Thundurus,105,642,electric,flying,61.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/642.png
+642,0.5,1.0,2.0,0.5,1.0,1.0,0.25,1.0,1.0,0.25,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,Vast White Pokémon,3.2,Reshiram,120,643,dragon,fire,330.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png
+643,1.0,1.0,2.0,0.25,2.0,1.0,0.5,0.5,1.0,0.5,2.0,2.0,1.0,1.0,1.0,1.0,0.5,0.5,Deep Black Pokémon,2.9,Zekrom,150,644,dragon,electric,345.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png
+644,0.5,1.0,1.0,0.0,1.0,0.5,1.0,1.0,1.0,1.0,0.0,4.0,1.0,0.5,1.0,1.0,1.0,2.0,Abundance Pokémon,1.5,Landorus,145,645,ground,flying,68.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/645.png
+645,1.0,1.0,2.0,0.5,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,2.0,0.5,Boundary Pokémon,3.0,Kyurem,120,646,dragon,ice,325.0,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png
+646,0.5,0.5,1.0,2.0,2.0,1.0,0.5,2.0,1.0,2.0,1.0,0.5,1.0,1.0,2.0,0.5,0.5,0.5,Colt Pokémon,1.4,Keldeo,72,647,water,fighting,48.5,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/647.png
+647,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Melody Pokémon,0.6,Meloetta,128,648,normal,psychic,6.5,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/648.png
+648,0.5,1.0,0.5,1.0,0.5,1.0,4.0,1.0,1.0,0.25,1.0,0.5,0.5,0.0,0.5,1.0,0.5,1.0,Paleozoic Pokémon,1.5,Genesect,120,649,bug,steel,82.5,5,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png
+649,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Spiky Nut Pokémon,0.4,Chespin,61,650,grass,grass,9.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png
+650,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Spiny Armor Pokémon,0.7,Quilladin,78,651,grass,grass,29.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/651.png
+651,1.0,0.5,1.0,0.5,2.0,1.0,2.0,4.0,1.0,0.5,0.5,2.0,1.0,2.0,2.0,0.5,1.0,0.5,Spiny Armor Pokémon,1.6,Chesnaught,107,652,grass,fighting,90.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png
+652,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fox Pokémon,0.4,Fennekin,45,653,fire,fire,9.4,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png
+653,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fox Pokémon,1.0,Braixen,59,654,fire,fire,14.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png
+654,1.0,2.0,1.0,1.0,0.5,0.5,0.5,1.0,2.0,0.5,2.0,0.5,1.0,1.0,0.5,2.0,0.5,2.0,Fox Pokémon,1.5,Delphox,69,655,fire,psychic,39.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png
+655,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Bubble Frog Pokémon,0.3,Froakie,56,656,water,water,7.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png
+656,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Bubble Frog Pokémon,0.6,Frogadier,63,657,water,water,10.9,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/657.png
+657,2.0,0.5,1.0,2.0,2.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,1.0,1.0,0.0,1.0,0.5,0.5,Ninja Pokémon,1.5,Greninja,145,658,water,dark,40.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png
+658,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Digging Pokémon,0.4,Bunnelby,36,659,normal,normal,5.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/659.png
+659,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Digging Pokémon,1.0,Diggersby,56,660,normal,ground,42.4,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/660.png
+660,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Tiny Robin Pokémon,0.3,Fletchling,50,661,normal,flying,1.7,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/661.png
+661,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Ember Pokémon,0.7,Fletchinder,73,662,fire,flying,16.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/662.png
+662,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Scorching Pokémon,1.2,Talonflame,81,663,fire,flying,24.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/663.png
+663,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Scatterdust Pokémon,0.3,Scatterbug,35,664,bug,bug,2.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/664.png
+664,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Scatterdust Pokémon,0.3,Spewpa,22,665,bug,bug,8.4,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/665.png
+665,0.5,1.0,1.0,2.0,1.0,0.25,2.0,2.0,1.0,0.25,0.0,2.0,1.0,1.0,1.0,4.0,1.0,1.0,Scale Pokémon,1.2,Vivillon,52,666,bug,flying,17.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/666.png
+666,0.5,1.0,1.0,1.0,0.5,2.0,0.5,1.0,0.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Lion Cub Pokémon,0.6,Litleo,50,667,fire,normal,13.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/667.png
+667,0.5,1.0,1.0,1.0,0.5,2.0,0.5,1.0,0.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Royal Pokémon,1.5,Pyroar,68,668,fire,normal,81.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/668.png
+668,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Single Bloom Pokémon,0.1,Flabébé,38,669,fairy,fairy,0.1,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/669.png
+669,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fairy Pokémon,0.2,Floette,65,670,fairy,fairy,0.9,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/670.png
+670,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Garden Pokémon,1.1,Florges,65,671,fairy,fairy,10.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/671.png
+671,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Mount Pokémon,0.9,Skiddo,65,672,grass,grass,31.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/672.png
+672,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Mount Pokémon,1.7,Gogoat,100,673,grass,grass,91.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/673.png
+673,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Playful Pokémon,0.6,Pancham,82,674,fighting,fighting,8.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png
+674,1.0,0.25,1.0,1.0,4.0,2.0,1.0,2.0,0.5,1.0,1.0,1.0,1.0,1.0,0.0,0.5,1.0,1.0,Daunting Pokémon,2.1,Pangoro,124,675,fighting,dark,136.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/675.png
+675,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Poodle Pokémon,1.2,Furfrou,80,676,normal,normal,28.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/676.png
+676,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Restraint Pokémon,0.3,Espurr,48,677,psychic,psychic,3.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/677.png
+677,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Constraint Pokémon,0.6,Meowstic,48,678,psychic,psychic,8.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/678.png
+678,0.25,2.0,0.5,1.0,0.5,0.0,2.0,0.5,2.0,0.5,2.0,0.5,0.0,0.0,0.5,0.5,0.5,1.0,Sword Pokémon,0.8,Honedge,80,679,steel,ghost,2.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/679.png
+679,0.25,2.0,0.5,1.0,0.5,0.0,2.0,0.5,2.0,0.5,2.0,0.5,0.0,0.0,0.5,0.5,0.5,1.0,Sword Pokémon,0.8,Doublade,110,680,steel,ghost,4.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/680.png
+680,0.25,2.0,0.5,1.0,0.5,0.0,2.0,0.5,2.0,0.5,2.0,0.5,0.0,0.0,0.5,0.5,0.5,1.0,Royal Sword Pokémon,1.7,Aegislash,150,681,steel,ghost,53.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png
+681,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Perfume Pokémon,0.2,Spritzee,52,682,fairy,fairy,0.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/682.png
+682,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Fragrance Pokémon,0.8,Aromatisse,72,683,fairy,fairy,15.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png
+683,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Cotton Candy Pokémon,0.4,Swirlix,48,684,fairy,fairy,3.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/684.png
+684,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Meringue Pokémon,0.8,Slurpuff,80,685,fairy,fairy,5.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/685.png
+685,4.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Revolving Pokémon,0.4,Inkay,54,686,dark,psychic,3.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/686.png
+686,4.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Overturning Pokémon,1.5,Malamar,92,687,dark,psychic,47.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/687.png
+687,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Two-Handed Pokémon,0.5,Binacle,52,688,rock,water,31.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/688.png
+688,1.0,1.0,1.0,2.0,1.0,2.0,0.25,0.5,1.0,4.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,1.0,Collective Pokémon,1.3,Barbaracle,105,689,rock,water,96.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/689.png
+689,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Mock Kelp Pokémon,0.5,Skrelp,60,690,poison,water,7.3,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/690.png
+690,0.5,1.0,2.0,0.5,1.0,0.5,0.5,1.0,1.0,0.25,2.0,2.0,1.0,0.5,2.0,1.0,1.0,0.5,Mock Kelp Pokémon,1.8,Dragalge,75,691,poison,dragon,81.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/691.png
+691,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Water Gun Pokémon,0.5,Clauncher,53,692,water,water,8.3,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/692.png
+692,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Howitzer Pokémon,1.3,Clawitzer,73,693,water,water,35.3,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/693.png
+693,1.0,1.0,1.0,0.5,1.0,2.0,1.0,0.5,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Generator Pokémon,0.5,Helioptile,38,694,electric,normal,6.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/694.png
+694,1.0,1.0,1.0,0.5,1.0,2.0,1.0,0.5,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Generator Pokémon,1.0,Heliolisk,55,695,electric,normal,21.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/695.png
+695,1.0,1.0,2.0,0.5,2.0,2.0,0.25,0.5,1.0,1.0,2.0,2.0,0.5,0.5,1.0,1.0,2.0,1.0,Royal Heir Pokémon,0.8,Tyrunt,89,696,rock,dragon,26.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/696.png
+696,1.0,1.0,2.0,0.5,2.0,2.0,0.25,0.5,1.0,1.0,2.0,2.0,0.5,0.5,1.0,1.0,2.0,1.0,Despot Pokémon,2.5,Tyrantrum,121,697,rock,dragon,270.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/697.png
+697,1.0,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,2.0,2.0,0.5,0.5,0.5,1.0,2.0,4.0,2.0,Tundra Pokémon,1.3,Amaura,59,698,rock,ice,25.2,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/698.png
+698,1.0,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,2.0,2.0,0.5,0.5,0.5,1.0,2.0,4.0,2.0,Tundra Pokémon,2.7,Aurorus,77,699,rock,ice,225.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png
+699,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Intertwining Pokémon,1.0,Sylveon,65,700,fairy,fairy,23.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png
+700,0.25,0.5,1.0,2.0,2.0,0.5,1.0,2.0,1.0,0.5,0.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,Wrestling Pokémon,0.8,Hawlucha,92,701,fighting,flying,21.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/701.png
+701,0.5,0.5,0.0,0.5,1.0,0.5,1.0,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,Antenna Pokémon,0.2,Dedenne,58,702,electric,fairy,2.2,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/702.png
+702,0.5,0.5,0.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,1.0,4.0,2.0,Jewel Pokémon,0.3,Carbink,50,703,rock,fairy,5.7,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png
+703,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Soft Tissue Pokémon,0.3,Goomy,50,704,dragon,dragon,2.8,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/704.png
+704,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Soft Tissue Pokémon,0.8,Sliggoo,75,705,dragon,dragon,17.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/705.png
+705,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Dragon Pokémon,2.0,Goodra,100,706,dragon,dragon,150.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/706.png
+706,0.25,0.5,0.0,1.0,0.5,1.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,1.0,1.0,Key Ring Pokémon,0.2,Klefki,80,707,steel,fairy,3.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/707.png
+707,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Stump Pokémon,0.4,Phantump,70,708,ghost,grass,7.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/708.png
+708,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Elder Tree Pokémon,1.5,Trevenant,110,709,ghost,grass,71.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/709.png
+709,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Pumpkin Pokémon,0.8,Pumpkaboo,66,710,ghost,grass,15.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/710.png
+710,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Pumpkin Pokémon,1.7,Gourgeist,100,711,ghost,grass,39.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/711.png
+711,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Ice Chunk Pokémon,1.0,Bergmite,69,712,ice,ice,99.5,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png
+712,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,2.0,2.0,1.0,Iceberg Pokémon,2.0,Avalugg,117,713,ice,ice,505.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png
+713,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Sound Wave Pokémon,0.5,Noibat,30,714,flying,dragon,8.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/714.png
+714,0.5,1.0,2.0,1.0,2.0,0.5,0.5,1.0,1.0,0.25,0.0,4.0,1.0,1.0,1.0,2.0,1.0,0.5,Sound Wave Pokémon,1.5,Noivern,70,715,flying,dragon,85.0,6,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/715.png
+715,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Life Pokémon,3.0,Xerneas,131,716,fairy,fairy,215.0,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png
+716,1.0,0.5,1.0,2.0,2.0,1.0,1.0,1.0,0.5,0.5,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,Destruction Pokémon,5.8,Yveltal,131,717,dark,flying,203.0,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png
+717,1.0,1.0,2.0,0.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,4.0,1.0,0.5,1.0,0.5,1.0,1.0,Order Pokémon,5.0,Zygarde,100,718,dragon,ground,284.6,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png
+718,0.5,0.5,0.0,1.0,1.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,1.0,4.0,2.0,Jewel Pokémon,0.7,Diancie,160,719,rock,fairy,8.8,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/719.png
+719,1.0,4.0,1.0,1.0,1.0,0.0,1.0,1.0,4.0,1.0,1.0,1.0,0.0,0.5,0.5,1.0,1.0,1.0,Mischief Pokémon (Confined)Djinn Pokémonn (Unbound),,Hoopa,160,720,psychic,ghost,,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/720.png
+720,0.5,1.0,1.0,2.0,0.5,1.0,0.25,1.0,1.0,1.0,2.0,0.25,1.0,1.0,1.0,2.0,0.25,1.0,Steam Pokémon,1.7,Volcanion,110,721,fire,water,195.0,6,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/721.png
+721,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Grass Quill Pokémon,0.3,Rowlet,55,722,grass,flying,1.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png
+722,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.25,0.0,4.0,1.0,2.0,1.0,2.0,1.0,0.5,Blade Quill Pokémon,0.7,Dartrix,75,723,grass,flying,16.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png
+723,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Arrow Quill Pokémon,1.6,Decidueye,107,724,grass,ghost,36.6,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/724.png
+724,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Cat Pokémon,0.4,Litten,65,725,fire,fire,4.3,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png
+725,0.5,1.0,1.0,1.0,0.5,1.0,0.5,1.0,1.0,0.5,2.0,0.5,1.0,1.0,1.0,2.0,0.5,2.0,Fire Cat Pokémon,0.7,Torracat,85,726,fire,fire,25.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png
+726,1.0,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,0.5,2.0,0.5,1.0,1.0,0.0,2.0,0.5,2.0,Heel Pokémon,1.8,Incineroar,115,727,fire,dark,83.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png
+727,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Lion Pokémon,0.4,Popplio,54,728,water,water,7.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png
+728,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Pop Star Pokémon,0.6,Brionne,69,729,water,water,17.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/729.png
+729,0.5,0.5,0.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,0.5,Soloist Pokémon,1.8,Primarina,74,730,water,fairy,44.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/730.png
+730,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Woodpecker Pokémon,0.3,Pikipek,75,731,normal,flying,1.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/731.png
+731,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Bugle Beak Pokémon,0.6,Trumbeak,85,732,normal,flying,14.8,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/732.png
+732,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0.5,0.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Cannon Pokémon,1.1,Toucannon,120,733,normal,flying,26.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/733.png
+733,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Loitering Pokémon,0.4,Yungoos,70,734,normal,normal,6.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png
+734,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Stakeout Pokémon,0.7,Gumshoos,110,735,normal,normal,14.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/735.png
+735,1.0,1.0,1.0,1.0,1.0,0.5,2.0,2.0,1.0,0.5,0.5,1.0,1.0,1.0,1.0,2.0,1.0,1.0,Larva Pokémon,0.4,Grubbin,62,736,bug,bug,4.4,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/736.png
+736,1.0,1.0,1.0,0.5,1.0,0.5,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,Battery Pokémon,0.5,Charjabug,82,737,bug,electric,10.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/737.png
+737,1.0,1.0,1.0,0.5,1.0,0.5,2.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,Stag Beetle Pokémon,1.5,Vikavolt,70,738,bug,electric,45.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/738.png
+738,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Boxing Pokémon,0.6,Crabrawler,82,739,fighting,fighting,7.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/739.png
+739,0.5,0.5,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,2.0,1.0,Woolly Crab Pokémon,1.7,Crabominable,132,740,fighting,ice,180.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/740.png
+740,0.25,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,0.25,0.0,1.0,1.0,1.0,1.0,4.0,0.5,2.0,Dancing Pokémon,0.6,Oricorio,70,741,fire,flying,3.4,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/741.png
+741,0.5,0.5,0.0,1.0,1.0,0.25,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,2.0,2.0,1.0,Bee Fly Pokémon,0.1,Cutiefly,45,742,bug,fairy,0.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/742.png
+742,0.5,0.5,0.0,1.0,1.0,0.25,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,2.0,2.0,1.0,Bee Fly Pokémon,0.2,Ribombee,55,743,bug,fairy,0.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/743.png
+743,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Puppy Pokémon,0.5,Rockruff,65,744,rock,rock,9.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/744.png
+744,1.0,1.0,1.0,1.0,1.0,2.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,2.0,Wolf Pokémon,,Lycanroc,115,745,rock,rock,,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png
+745,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Small Fry Pokémon,0.2,Wishiwashi,140,746,water,water,0.3,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/746.png
+746,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Brutal Star Pokémon,0.4,Mareanie,53,747,poison,water,8.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/747.png
+747,0.5,1.0,1.0,2.0,0.5,0.5,0.5,1.0,1.0,1.0,2.0,0.5,1.0,0.5,2.0,1.0,0.5,0.5,Brutal Star Pokémon,0.7,Toxapex,63,748,poison,water,14.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/748.png
+748,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Donkey Pokémon,1.0,Mudbray,100,749,ground,ground,110.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/749.png
+749,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0.5,1.0,0.5,1.0,2.0,Draft Horse Pokémon,2.5,Mudsdale,125,750,ground,ground,920.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/750.png
+750,1.0,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,0.5,0.5,Water Bubble Pokémon,0.3,Dewpider,40,751,water,bug,4.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/751.png
+751,1.0,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,0.5,0.5,Water Bubble Pokémon,1.8,Araquanid,70,752,water,bug,82.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png
+752,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Sickle Grass Pokémon,0.3,Fomantis,55,753,grass,grass,1.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/753.png
+753,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Bloom Sickle Pokémon,0.9,Lurantis,105,754,grass,grass,18.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/754.png
+754,1.0,0.5,0.0,0.5,1.0,0.5,2.0,2.0,1.0,0.5,0.5,2.0,1.0,4.0,1.0,1.0,2.0,0.5,Illuminating Pokémon,0.2,Morelull,35,755,grass,fairy,1.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/755.png
+755,1.0,0.5,0.0,0.5,1.0,0.5,2.0,2.0,1.0,0.5,0.5,2.0,1.0,4.0,1.0,1.0,2.0,0.5,Illuminating Pokémon,1.0,Shiinotic,45,756,grass,fairy,11.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/756.png
+756,0.25,1.0,1.0,1.0,0.25,0.5,0.5,1.0,1.0,0.25,4.0,0.5,1.0,0.5,2.0,2.0,0.5,2.0,Toxic Lizard Pokémon,0.6,Salandit,44,757,poison,fire,4.8,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/757.png
+757,0.25,1.0,1.0,1.0,0.25,0.5,0.5,1.0,1.0,0.25,4.0,0.5,1.0,0.5,2.0,2.0,0.5,2.0,Toxic Lizard Pokémon,1.2,Salazzle,64,758,poison,fire,22.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/758.png
+758,0.5,0.5,1.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Flailing Pokémon,0.5,Stufful,75,759,normal,fighting,6.8,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/759.png
+759,0.5,0.5,1.0,1.0,2.0,2.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Strong Arm Pokémon,2.1,Bewear,125,760,normal,fighting,135.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/760.png
+760,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Fruit Pokémon,0.3,Bounsweet,30,761,grass,grass,3.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/761.png
+761,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Fruit Pokémon,0.7,Steenee,40,762,grass,grass,8.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/762.png
+762,2.0,1.0,1.0,0.5,1.0,1.0,2.0,2.0,1.0,0.5,0.5,2.0,1.0,2.0,1.0,1.0,1.0,0.5,Fruit Pokémon,1.2,Tsareena,120,763,grass,grass,21.4,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/763.png
+763,0.5,0.5,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,Posy Picker Pokémon,0.1,Comfey,52,764,fairy,fairy,0.3,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/764.png
+764,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Sage Pokémon,1.5,Oranguru,60,765,normal,psychic,76.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/765.png
+765,0.5,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,1.0,Teamwork Pokémon,2.0,Passimian,120,766,fighting,fighting,82.8,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/766.png
+766,1.0,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,0.5,0.5,Turn Tail Pokémon,0.5,Wimpod,35,767,bug,water,12.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/767.png
+767,1.0,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,0.5,0.5,Hard Scale Pokémon,2.0,Golisopod,125,768,bug,water,108.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/768.png
+768,0.5,2.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.25,1.0,0.5,1.0,2.0,Sand Heap Pokémon,0.5,Sandygast,55,769,ghost,ground,70.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/769.png
+769,0.5,2.0,1.0,0.0,1.0,0.0,1.0,1.0,2.0,2.0,1.0,2.0,0.0,0.25,1.0,0.5,1.0,2.0,Sand Castle Pokémon,1.3,Palossand,75,770,ghost,ground,250.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/770.png
+770,1.0,1.0,1.0,2.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,0.5,1.0,1.0,1.0,1.0,0.5,0.5,Sea Cucumber Pokémon,0.3,Pyukumuku,60,771,water,water,1.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png
+771,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Synthetic Pokémon,1.9,Type: Null,95,772,normal,normal,120.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/772.png
+772,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Synthetic Pokémon,2.3,Silvally,95,773,normal,normal,100.5,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/773.png
+773,0.5,1.0,1.0,2.0,1.0,1.0,0.5,0.5,1.0,1.0,0.0,2.0,0.5,0.5,1.0,2.0,2.0,2.0,Meteor Pokémon,0.3,Minior,100,774,rock,flying,40.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/774.png
+774,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Drowsing Pokémon,0.4,Komala,115,775,normal,normal,19.9,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/775.png
+775,0.5,1.0,2.0,0.5,1.0,1.0,0.25,1.0,1.0,0.25,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,Blast Turtle Pokémon,2.0,Turtonator,78,776,fire,dragon,212.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/776.png
+776,0.5,1.0,0.5,0.5,0.5,2.0,2.0,0.25,1.0,0.5,4.0,0.5,0.5,0.0,0.5,0.5,0.25,1.0,Roly-Poly Pokémon,0.3,Togedemaru,98,777,electric,steel,3.3,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/777.png
+777,0.25,1.0,0.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,1.0,Disguise Pokémon,0.2,Mimikyu,90,778,ghost,fairy,0.7,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/778.png
+778,2.0,2.0,1.0,2.0,1.0,0.5,0.5,1.0,2.0,2.0,1.0,0.5,1.0,1.0,0.5,1.0,0.5,0.5,Gnash Teeth Pokémon,0.9,Bruxish,105,779,water,psychic,19.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png
+779,1.0,1.0,2.0,0.5,2.0,2.0,0.5,1.0,0.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Placid Pokémon,3.0,Drampa,60,780,normal,dragon,185.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png
+780,1.0,2.0,1.0,0.5,1.0,0.0,2.0,2.0,2.0,0.5,0.5,2.0,0.0,1.0,1.0,1.0,1.0,0.5,Sea Creeper Pokémon,3.9,Dhelmise,131,781,ghost,grass,210.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/781.png
+781,1.0,1.0,2.0,0.5,2.0,1.0,0.5,1.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,Scaly Pokémon,0.6,Jangmo-o,55,782,dragon,dragon,29.7,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/782.png
+782,0.5,0.5,2.0,0.5,4.0,1.0,0.5,2.0,1.0,0.5,1.0,2.0,1.0,1.0,2.0,0.5,1.0,0.5,Scaly Pokémon,1.2,Hakamo-o,75,783,dragon,fighting,47.0,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/783.png
+783,0.5,0.5,2.0,0.5,4.0,1.0,0.5,2.0,1.0,0.5,1.0,2.0,1.0,1.0,2.0,0.5,1.0,0.5,Scaly Pokémon,1.6,Kommo-o,110,784,dragon,fighting,78.2,7,0,https://assets.pokemon.com/assets/cms2/img/pokedex/full/784.png
+784,0.5,0.5,0.0,0.5,1.0,0.5,1.0,0.5,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,Land Spirit Pokémon,1.8,Tapu Koko,115,785,electric,fairy,20.5,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/785.png
+785,1.0,1.0,0.0,1.0,1.0,0.25,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.5,1.0,2.0,1.0,Land Spirit Pokémon,1.2,Tapu Lele,85,786,psychic,fairy,18.6,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/786.png
+786,1.0,0.5,0.0,0.5,1.0,0.5,2.0,2.0,1.0,0.5,0.5,2.0,1.0,4.0,1.0,1.0,2.0,0.5,Land Spirit Pokémon,1.9,Tapu Bulu,130,787,grass,fairy,45.5,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/787.png
+787,0.5,0.5,0.0,2.0,1.0,0.5,0.5,1.0,1.0,2.0,1.0,0.5,1.0,2.0,1.0,1.0,1.0,0.5,Land Spirit Pokémon,1.3,Tapu Fini,75,788,water,fairy,21.2,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/788.png
+788,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Nebula Pokémon,0.2,Cosmog,29,789,psychic,psychic,0.1,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/789.png
+789,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Protostar Pokémon,0.1,Cosmoem,29,790,psychic,psychic,999.9,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/790.png
+790,1.0,2.0,0.5,1.0,0.5,1.0,2.0,0.5,2.0,0.5,2.0,0.5,0.5,0.0,0.25,0.5,0.5,1.0,Sunne Pokémon,3.4,Solgaleo,137,791,psychic,steel,230.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png
+791,1.0,4.0,1.0,1.0,1.0,0.0,1.0,1.0,4.0,1.0,1.0,1.0,0.0,0.5,0.5,1.0,1.0,1.0,Moone Pokémon,4.0,Lunala,113,792,psychic,ghost,120.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png
+792,0.5,1.0,1.0,1.0,0.5,1.0,0.5,0.5,1.0,1.0,4.0,1.0,0.5,0.25,2.0,1.0,2.0,2.0,Parasite Pokémon,1.2,Nihilego,53,793,rock,poison,55.5,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/793.png
+793,0.5,0.5,1.0,1.0,2.0,0.5,2.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,1.0,1.0,1.0,Swollen Pokémon,2.4,Buzzwole,139,794,bug,fighting,333.6,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png
+794,0.5,0.5,1.0,1.0,2.0,0.5,2.0,4.0,1.0,0.5,0.5,1.0,1.0,1.0,2.0,1.0,1.0,1.0,Lissome Pokémon,1.8,Pheromosa,137,795,bug,fighting,25.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/795.png
+795,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,Glowing Pokémon,3.8,Xurkitree,89,796,electric,electric,100.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/796.png
+796,0.25,1.0,0.5,2.0,0.5,1.0,2.0,0.5,1.0,0.25,0.0,1.0,0.5,0.0,0.5,1.0,0.5,1.0,Launch Pokémon,9.2,Celesteela,101,797,steel,flying,999.9,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png
+797,1.0,1.0,0.5,0.5,0.5,2.0,4.0,1.0,1.0,0.25,1.0,1.0,0.5,0.0,0.5,0.5,0.5,0.5,Drawn Sword Pokémon,0.3,Kartana,181,798,grass,steel,0.1,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png
+798,2.0,0.5,2.0,0.5,4.0,2.0,0.5,1.0,0.5,0.5,1.0,2.0,1.0,1.0,0.0,1.0,1.0,0.5,Junkivore Pokémon,5.5,Guzzlord,101,799,dark,dragon,888.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/799.png
+799,2.0,2.0,1.0,1.0,1.0,0.5,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0.5,1.0,1.0,1.0,Prism Pokémon,2.4,Necrozma,107,800,psychic,psychic,230.0,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png
+800,0.25,0.5,0.0,1.0,0.5,1.0,2.0,0.5,1.0,0.5,2.0,0.5,0.5,0.0,0.5,0.5,1.0,1.0,Artificial Pokémon,1.0,Magearna,95,801,steel,fairy,80.5,7,1,https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png
